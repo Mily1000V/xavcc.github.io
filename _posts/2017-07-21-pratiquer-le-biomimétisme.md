@@ -103,6 +103,11 @@ Et si petit robot sous-marin bioinspiré, alimenté par des sytèmes éco-conçu
 
 Ok, c'est un peu long à faire avancer mais c'est en bonne voie. Par contre cela pause la question de la liberté individuelle et de nos données lorsque l'on utilise des machines et des logiciels (perso, j'évite au maximun les traucs pas open source). Du coup, je participe aussi à des exercices et des ateliers de sensibilisations sur les libertés, sécurité et la vie privée : [Indie Camp Initiation à la sécurité informatique](https://hackmd.io/s/r1Mfb9FVW#)
 
+Au passage, quite à apprendre et tenter de programmmer, autant tenter de faire des ça en s'inspirant du vivant :
+
+* [Applications logicielles en tant que systèmes adaptatifs complexes](https://xavcc.github.io/science/2017/05/08/software-application-as-complexe-adaptative-systems.html)
+* [Biomimétisme et logiciel: une possibilité à saisir](https://xavcc.github.io/science/biomimicry/2017/04/23/biomimicry_software.html)
+
 #### Biomatériaux et Biofabrics
 
 La sève de pissenlit je travaille sur sa récolte et transformation depuis 4 ans maintenant, ajoutons lui du souffre et chauffons un peu pour obtenir du caoutchouc que l'on pourra travailler (je simplifie volotairement). Simplement parce que des produits pétrosourcés il est grand temps de s'en passer mais que je n'ai pas vu d'hévéa du Brésil en France. Ce processus de fabrication amène un ce que l'on appel un biomatériau.
@@ -119,8 +124,19 @@ Et parfois nous cultivons le SCOBY, Symbiotic Colony Of Bacterai and Yeast, qui 
 ![](https://pbs.twimg.com/media/DFL0X5TXsAAABkW.jpg)
 
 Pourquoi ce nouvel effort dans un autre domaine ?
-Simlement, je vous ai écrit l'urgence de sortir d'un modèle basé sur le pétrol, alors les robots sous-marins, les colones bactériennes, les gants en latex, les outils, les imprimantes 3D, les ordinateurs, que nous utilisons ont grandement et rapidement beson d'alternative crédibles aux matériax existant. C'est encore ici l'hisoire de co-concevoir les bases favorables à l'expressions de nosn arts et techniques qui en jeu. 
+Simlement, je vous ai écrit l'urgence de sortir d'un modèle basé sur le pétrole, alors les robots sous-marins, les colones bactériennes, les gants en latex, les outils, les imprimantes 3D, les ordinateurs, que nous utilisons ont grandement et rapidement besoin d'alternatives crédibles aux matériax existant. C'est encore ici l'hisoire de co-concevoir les bases favorables à l'expressions de nosn arts et techniques qui est en jeu. 
 
 ### Transmettre, enseigner, écoles et entreprises
 
+Boucler la boucle, ne rien perdre, pérenniser, intérroger, se confronter aux zones d'ignorances pour apprendre, c'est un peu mon carburant, mélanger à une immense confiance dans l'huamain.
 
+Ainsi je me retrouve à faire cours à des ingénieurs diplomés qui se spécilaisent dans l'éco-conception, comme à [l'école des métiers de l'environnement de Rennes](https://paper.dropbox.com/doc/Journee-biomimetisme-EME-Rennes-paSBBhomUB3CeQ6FtCtuk). Ou ecnore faire des workshop aux élèves inégnieurs double diplômes de L'Université de Technologie de Compiègne sur le biomimétisme ou donner des cours d'initiation au Design aux Executive MBA de Rennes, des ateliers et conférence en médiathèque à Paris ou Quiberon, des interventions à l'école des beaux arts de Brest... 
+Cette liste pourrait être longue !
+
+Quoiqu'il en soit, on se retouve à revenir sur les premiers points abordés en début des ces lignes sur la gourvernance, l'autonomie, le changement de paradigme. Dans cette aventure très riche et humainement merveilleuse, s'il n'y a une seul chose que vous pouvez retenir :
+
+**Faire des petis bouts de trucs et les assembler ensemble**
+
+est peut être un des secrets de l'intelligence de la main, de la sagesse du coeur, de la force du cerveau. Pour peu que vous le fassiez avec humilité et déconstruction quotidienne, vous y trouverez peut être un équilibre et un bonheur personnel qui se propagera sur d'autres.
+ 
+Moi j'ai choisi le biomimétisme pour faire cela, mais cette recette il ne teint qu'à vous de la détourner, la modifier, l'améliorer tout en gardant l'interrogation sur l'éthique de vos pratiques. 
