@@ -77,7 +77,7 @@ Cela étant en cours, je profite parfois des opportunités de reoncontre pour co
 
 C'est un sujet central qui porte beaucoup de cristallisations sociétales, il ne peut y avoir de travail de transition de paradigme, de résilience et d'autonmie sans réflexions et expérimentations profondes sur les énergies, leur sociologie et leurs infrastructures.
 
-Ainsi, en plus du prototype sur les herbiers marins producteur d'énergie et de zone de remédiation écologique, j'ai engagé une collaboration sur [daisee.org, Internets of Energy | Energy as a Commons](http://daisee.org), notamment sur la [visualisation des données énergétique](https://hackmd.io/s/B1dkKe00g#) dans un cadre topographique avec des base de données provenant de la NASA. 
+Ainsi, en plus du prototype sur les herbiers marins producteur d'énergie et de zone de remédiation écologique, j'ai engagé une collaboration sur [daisee.org, Internets of Energy - Energy as a Commons](http://daisee.org), notamment sur la [visualisation des données énergétique](https://hackmd.io/s/B1dkKe00g#) dans un cadre topographique avec des base de données provenant de la NASA. 
 
 Losque je fais des conférences sur le Biomimétisme, je parle souvent de la capacité du vivant depuis prés des 4 milliards d'années à optimiser les fux comme "secret" de sa capacité d'adaptation et d'innovation. 
 
