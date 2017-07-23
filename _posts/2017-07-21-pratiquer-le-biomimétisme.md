@@ -9,29 +9,32 @@ Alors que je pratique le biomimetisme et l'écologie, j'ai très envie de vous r
 Car pour l'instant il semblerait que cela soit très floue pour beaucoup.
 Mais en fait tout cela peut se résumer un exemple explicite. 
 
+cet article, à l'inventaire non exhaustif, n'a pas vocation à flatter mon égo, il destiné, au travers d'un parcours humain, à expliciter la cohérence entre plusieurs actions menées collectivement. Je dois ses possibilités d'agir à de nombreuses personnes et amis que je remercie très profondément et sincèrement au passage. 
+
 ![](https://framapic.org/FLdWMk2ZP4N1/De0BcOIYjoZc "Windell Oskay
 A Lego fish on a Lego bicycle License CC BY")
 
 ## A l'origine du Faire
 
-Si le biomimétisme est "s'inspirer de la nature pour résoudre des défis sociétaux" en copiant/imitant les formes, matières et systèmes dévellopés par le vivant, alors il me parait difficile de faire du biomimétisme avec un paradigme basé sur le brevetage. Il me parati également que le biomimétisme est un ensemble de pratiques (design, biologie, chimie, physique, sociologie, architecture, ingénierie, informatique, electronique etc.) qui ne peuvent trouver leur efficience d'expression que dans un système collaboratif et transdisciplinaire.
+Si le biomimétisme est "s'inspirer de la nature pour résoudre des défis sociétaux" en copiant/imitant les formes, matières et systèmes dévellopés par le vivant, alors il me parait difficile de faire du biomimétisme avec un paradigme basé sur le brevetage. Il me parait également que le biomimétisme est un ensemble de pratiques (design, biologie, chimie, physique, sociologie, architecture, ingénierie, informatique, electronique etc.) qui ne peuvent trouver leur efficience d'expression que dans un système collaboratif et transdisciplinaire.
 
-Donc en 2014 je participe à l'aventure de co-création d'un laboratoire citoyen de prototypage et expérimentations dédcié au biomimétisme à Rennes. Avec quelques projets, toujours en cours, de caoutchouc à base d sève de pissenlit, un abri copiant les propriétés de l'exosquelette du scorpion et d'autres explorations. Ce laboratoire est [le biome HackLab](https://lebiome.github.io)
+Donc en 2014 je participe à l'aventure de co-création d'un laboratoire citoyen de prototypage et expérimentations dédié au biomimétisme à Rennes. Avec quelques projets, toujours en cours, de caoutchouc à base de sève de pissenlit, un abri copiant les propriétés de l'exosquelette du scorpion et d'autres explorations. Ce laboratoire se nomme [le biome HackLab](https://lebiome.github.io)
 
-Tout cela était mu par des aspirations simples :
+Tout cela était mû par des aspirations simples :
 
 * Partager au plus grand nombre nos réalisations, méthodes, outils, c'est le principre de l'open source et de la documentation.
 * Sortir de notre garage pour vivre de nos pratiques et résoudre des problèmes, c'est entreprendre
 * Avoir une action citoyenne décentralisée, [le Manifeste](https://lebiome.github.io/#LeBiome/manifesto/blob/master/manifeste.md)
+* Apporter des solutions concrètes à une société de l'après pétrole et éviter de reproduire les erreurs passées sur les ressources naturelles dans cette nouvelle émergence.
 
 > Nous faisons nôtre, l'engagement de ne pas laisser ce levier de changement dans les mains d'une poignée d'individus ou de structures élitistes. 
 
-Ainsi, je me suis retrouvé très vite débordé par l'ampleur de l'impulsion avec une communauté active de plusieurs centaines d emembres en France et à l'étranger et de nouveaux projets à pousser l eplus loin possible. Par exemple, frappé par le manque de collaborations en les laboratoires de fabrication numérique bretons j'ai co-construit un "[Bretagne Lab Tour](https://paper.dropbox.com/doc/BretagneLabTour-Tour-de-Bretagne-des-lieux-dinnovation-ouverte-et-des-communautes-collaboratives-Orguk90PFC3YDkt3McqdD)" en 2015 pour rendre visible les cannaux de coopérations et les opportunités existantes. Ceci était dans le but de fournir à chaque personne qui le désir les chémins, les méthodes et les points de collaboration sans réinventer le roue, tendre vers l'autonomie des usagers. Cela a également mené à la réalsation d'[interviews sonores](https://soundcloud.com/xavier-coadic) et une exploration de ce qui ressemble à [la confaince entre individus](https://paper.dropbox.com/doc/BretagneLabTour-Les-rencontres-sur-les-routes-de-la-confiance-judTy0bh4KUPAdV2CzGfh), j'y revindrais plus tard sur le sujet liè à la Blockchain. 
+Ainsi, je me suis retrouvé très vite débordé par l'ampleur de l'impulsion avec une communauté active de plusieurs centaines de membres en France et à l'étranger et de nouveaux projets à pousser le plus loin possible. Par exemple, frappé par le manque de collaborations entre les laboratoires de fabrication numérique bretons j'ai co-construit un "[Bretagne Lab Tour](https://paper.dropbox.com/doc/BretagneLabTour-Tour-de-Bretagne-des-lieux-dinnovation-ouverte-et-des-communautes-collaboratives-Orguk90PFC3YDkt3McqdD)" en 2015 pour rendre visible les cannaux de coopérations et les opportunités existantes. Ceci était dans le but de fournir à chaque personne qui le désir les chémins, les méthodes et les points de collaboration sans réinventer le roue, tendre vers l'autonomie des usagers. Cela a également mené à la réalisation d'[interviews sonores](https://soundcloud.com/xavier-coadic) et une exploration de ce qui ressemble à [la confaince entre individus](https://paper.dropbox.com/doc/BretagneLabTour-Les-rencontres-sur-les-routes-de-la-confiance-judTy0bh4KUPAdV2CzGfh), j'y revindrais plus tard sur le sujet liè à la Blockchain. 
 
 Vous me direz que cela est un peu éloigné du biomimétisme, rapidement explicité ci-avant. Certes, mais le fonctionnement systémique et l'analogie de nos fonctionnements sociaux avec un [réseau trophique](https://fr.wikipedia.org/wiki/R%C3%A9seau_trophique) m'a semblé nécessaire à cette époque avant de vouloir pérenniser l'aventure du HackLab et d'engager des collaborations. 
-Cette aventure itinirante m'a permis de devinir un contributeur assidu sur la documenation et le partage des pratiques collaboratives sur [Multibao](http://www.multibao.org) et d'interroger plus profondément [le nomadisme](http://www.multibao.org/#nomades). Pourquoi ? [Lier le nomadisme postmoderne à une volonté de comprendre ce qui a fait de nous une Humanité il y a des milliers d’années?](https://medium.com/@XavierCoadic/lier-le-nomadisme-postmoderne-%C3%A0-une-volont%C3%A9-de-comprendre-ce-qui-a-fait-de-nous-une-humanit%C3%A9-il-y-a-f0b0a37cb75d)
+Cette aventure itinérante m'a permis de devinir un contributeur assidu sur la documenation et le partage des pratiques collaboratives sur [Multibao](http://www.multibao.org) et d'interroger plus profondément [le nomadisme](http://www.multibao.org/#nomades). Pourquoi ? [Lier le nomadisme postmoderne à une volonté de comprendre ce qui a fait de nous une Humanité il y a des milliers d’années?](https://medium.com/@XavierCoadic/lier-le-nomadisme-postmoderne-%C3%A0-une-volont%C3%A9-de-comprendre-ce-qui-a-fait-de-nous-une-humanit%C3%A9-il-y-a-f0b0a37cb75d)
 
-Pour faire la transition vers une explciation du lien entre tous les projets rapidement exposés en introduction, je vous fais part du [tour de France 2016] dans lequel je suis lancé dans le vide. Dans ce tour non-ordinaire, j'ai contribué aux travail de personnes et aux communs de lieux pour les aider à se monter ou à améliorer leurs prototypes pendant 4 mois et demi. Réusltat, comme pour le Bretagne Lab Tour, plus on partage, plus on apprend. "[Le jour où j’ai tout …](https://medium.com/@XavierCoadic/le-jour-o%C3%B9-j-ai-tout-98e46619b654)" est dévenu le jour depuis lequel je réinterroge sans cesse les pratiques et les usages qui gravitent plus ou moins proche de l'aventure du hacklab de Biomimétisme.
+Pour faire la transition vers une explication du lien entre tous les projets rapidement exposés en introduction, je vous fais part du [tour de France 2016](https://paper.dropbox.com/doc/LabOSe-Laboratoire-open-source-dexperiences-libres-et-distribuees-KwBdA6CpH17tiqPcCgmfW) dans lequel je suis lancé dans le vide. Dans ce tour non-ordinaire, j'ai contribué aux travaux et efforts de personnes et aux communs de lieux pour les aider à se monter ou à améliorer leurs prototypes pendant 4 mois et demi. Résultat, comme pour le Bretagne Lab Tour, plus on partage, plus on apprend. "[Le jour où j’ai tout …](https://medium.com/@XavierCoadic/le-jour-o%C3%B9-j-ai-tout-98e46619b654)" est dévenu le jour depuis lequel je réinterroge sans cesse les pratiques et les usages qui gravitent plus ou moins proche de l'aventure du hacklab de Biomimétisme.
 
 > Début du XX siècle : Les principes d'hybridation des univers culturels et des pratiques par l'exemple Otto Herbert Schmitt. Il a inventé le terme biomimétisme pour décrire un mode d'exploration du Vivant en tant que source de solutions efficientes et moins coûteuses à de nombreux problèmes.
 
@@ -62,21 +65,21 @@ Car FabLab, tiers-lieux, start-ups etc. Cela fait peut être de jolies appellati
 
 > “La folie, c’est se comporter de la même manière et s’attendre à un résultat différent” Albert Einstein
 
-J'ai donc autant besoin de participer à la co-concpetion de nouveaux outils pour praiquer un biomimétisme libre et open source que j'en ai de pratiquer mes arts et techniques dans de bonnes conditions. Nous créons ensemble les bases d'une autonomie.
+J'ai donc autant besoin de participer à la co-concpetion de nouveaux outils pour praiquer un biomimétisme libre et open source que j'en ai de pratiquer mes arts et techniques dans de bonnes conditions. Nous créons ensemble les bases d'une autonomie avec une matrice de fonctionnement différente.
 
-j'au aussi fait de spetis bouts de trucs sur :
+j'au aussi fait des petis bouts de trucs sur :
 * le [biennale de l'économie à Rennes](https://xavcc.github.io/hsociety/2016/01/16/nex-eco.html), atelier citoyen sur "Où nous mènent les nouveaux modèles economiques?"
 * La [gouverance de l'Hôtel Pasteur](https://bimestriel.framapad.org/p/GouvernancePasteur) à Rennes, tiers-lieu sur l'hospitalité
 
-Cela étant en cours, je profite parfois des opportunités pour co-organiser des [IndieCamps](http://movilab.org/index.php?title=IndieCamp_2017_N%C3%A9vez) ou des [hackathons](https://lebiome.github.io/#LeBiome/Hackathons), sprints de prototypage et/ou amélioration de projets. Ces espaces me permettent de travailler sur la sève de pissenlit, les colonnes bactériennes, le clônage de mycélium, les [energies marines renouvelables bioinspirées](https://lebiome.github.io/#LeBiome/Proto_et_Projets) par exemple.
+Cela étant en cours, je profite parfois des opportunités de reoncontre pour co-organiser des [IndieCamps](http://movilab.org/index.php?title=IndieCamp_2017_N%C3%A9vez) ou des [hackathons](https://lebiome.github.io/#LeBiome/Hackathons), sprints de prototypage et/ou amélioration de projets. Ces espaces me permettent de travailler sur la sève de pissenlit, les colonnes bactériennes, le clônage de mycélium, les [energies marines renouvelables bioinspirées](https://lebiome.github.io/#LeBiome/Proto_et_Projets) par exemple.
 
 #### Energies
 
-C'est un sujet centrales qui portent beaucoup de cristallisation sociétales, il ne peut y avoir de travail de transition de paradigme, de résilience et d'autonmie sans réflexion et expérimentations profondes sur les énergies, leur sociologi et leurs infrastructures.
+C'est un sujet central qui porte beaucoup de cristallisations sociétales, il ne peut y avoir de travail de transition de paradigme, de résilience et d'autonmie sans réflexions et expérimentations profondes sur les énergies, leur sociologie et leurs infrastructures.
 
-Ainsi, en plus dut prototype sur les herbiers marins producteur d'énergie et de zone de remédiation écologique, j'ai engagé une collaboration sur [daisee.org, Internets of Energy | Energy as a Commons](http://daisee.org), notamment sur la [visualisation des données énergétique](https://hackmd.io/s/B1dkKe00g#) dans un cadre topographique avec des base de données provenant de la NASA. 
+Ainsi, en plus du prototype sur les herbiers marins producteur d'énergie et de zone de remédiation écologique, j'ai engagé une collaboration sur [daisee.org, Internets of Energy | Energy as a Commons](http://daisee.org), notamment sur la [visualisation des données énergétique](https://hackmd.io/s/B1dkKe00g#) dans un cadre topographique avec des base de données provenant de la NASA. 
 
-Losque je fais des conférences sur le Biomimétisme, je parle souvent de la capacité du vivant depus prés des 4 milliards d'années à optimiser les fux comme "secret" de sa capacité d'adaptation et d'innovation. 
+Losque je fais des conférences sur le Biomimétisme, je parle souvent de la capacité du vivant depuis prés des 4 milliards d'années à optimiser les fux comme "secret" de sa capacité d'adaptation et d'innovation. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JQ68y_725Dw" frameborder="0" allowfullscreen></iframe>
 
@@ -90,9 +93,34 @@ Alors effectivement, l'histoire daisee / blockchain / energie, ça fait un peu g
 * Les herbiers marins producteurs d'énergie pour alimenter la station de pilotage de ce robot ?
 * Des colonnes bactériennes connectées, [ByodIT](https://lebiome.github.io/#LeBiome/Proto_et_Projets/tree/master/winogradsky_project), via daisee pour produire de l'énergie ?
 
+Si le projet DAISEE concerne la blockchain et que celui ByodIT l'utilise également, je suis contre l'utilisation du slogan "La Blockchain crée de la confiance [...]". Comme expliqué plus haut, la confiance est un phénomème socio-anthropologique complexe, par exemple être pris en stop sur un bord de route ou ere invité à dorimir et manger chez des inconnus n'est pas lié à la compilations de données dans un contrat dit intelligent. La blockchain est un ensemble de codes et alogorythmes informatiques rédigés par des huamains à grande technicité qui sécurise les rapports comptables des échanges pour des humains moins technophiles. Si la blockchain peut, avec humilité et parcimonie, faciliter l'accés à la confiance : peut-être. Mais elle est loin d'être parfaite ([Ethereum ICO hacked for $7 million](https://cointelegraph.com/news/ethereum-ico-website-hacked-over-7-million-stolen-redirected) )
+
+La confiance elle s'exprime dans les projets que nous réalisons au 4 coins de la France et elle est tabgible dans les intéractions humaines des collaborations. Revenons donc à nons prototypes.
+
 Et si petit robot sous-marin bioinspiré, alimenté par des sytèmes éco-conçu en énergie renouvelable, communiquait également ces images et données sous-marines avec les sytèmes ou base de données satelitaires... Et bien on aurait une formidable opportunités de mieux connaîtres les océans, travailler sérieusement sur leur préservation et dépollution, agir avec des données suffisante contre le réchaufement climatique. Des peits bouts detrucs liés ensemble, si vous me permettez l'expression.
+
+![](https://hackpad-attachments.s3.amazonaws.com/explore.hackpad.com_p4Y4dhu0uVt_p.445644_1460901383067_PANO_20160416_173751%5B1%5D.jpg "Test OpenROv acec élèves ingénieurs Concarneau 2016")
 
 Ok, c'est un peu long à faire avancer mais c'est en bonne voie. Par contre cela pause la question de la liberté individuelle et de nos données lorsque l'on utilise des machines et des logiciels (perso, j'évite au maximun les traucs pas open source). Du coup, je participe aussi à des exercices et des ateliers de sensibilisations sur les libertés, sécurité et la vie privée : [Indie Camp Initiation à la sécurité informatique](https://hackmd.io/s/r1Mfb9FVW#)
 
-#### Biomatériaux
+#### Biomatériaux et Biofabrics
+
+La sève de pissenlit je travaille sur sa récolte et transformation depuis 4 ans maintenant, ajoutons lui du souffre et chauffons un peu pour obtenir du caoutchouc que l'on pourra travailler (je simplifie volotairement). Simplement parce que des produits pétrosourcés il est grand temps de s'en passer mais que je n'ai pas vu d'hévéa du Brésil en France. Ce processus de fabrication amène un ce que l'on appel un biomatériau.
+
+> Un biomatériau (à ne pas confondre avec un écomatériau) a été défini, selon la Société Européenne des Biomatériaux, comme « matériau conçu pour interagir avec les systèmes biologiques, qu'il participe à la constitution d'un dispositif à visée diagnostique ou à celle d'un substitut de tissu ou d'organe ou encore à celle d'un dispositif de suppléance (ou d'assistance) fonctionnelle » (Conférences de Chester (Royaume-Uni), 1986 et 1991). Il peut ainsi être considéré comme tout matériau utilisé pour remplacer une partie ou une fonction du corps de manière sure et fiable, acceptable d’un point de vue économique et physiologique. _Wikipedia_
+
+Je clône et cultive également des mycélium en appartement, on peut nommer cela la culutre Do It Yoursel (DIY), pour utiliser ces mycélium dans la transformation et amélioration des propriétés de biomatériaux puis ainsi leur offrir de nouveaux usages car plus résistants, étanches, isolant etc. 
+
+Avec Sabrina Maroc, je participe à l'aventure [Open BioFabrics](https://openbiofabrics.github.io/), dans laquelle nous faisons pouseer de la [cellulose](https://fr.wikipedia.org/wiki/Cellulose) à partir d'une culture symbiotic entre levures et bactéries. Toujours dans une exigence écologique et dans l'experimentation open source, nous dévellopons ici des BiofFabrics car ce sont des micro-organismes qui fabriquent le matériaux puis l'humain qui l'ennoblit.
+Nous travaillons avec diférents FabLabs pour travailler la matière avec des macines à commande numérique ou enconre pour optimiser le processus de culture avec des otuils életcronique open source.
+
+Et parfois nous cultivons le SCOBY, Symbiotic Colony Of Bacterai and Yeast, qui permet d'avoir de la cellulose en lien direct d'échange gazeux avec des plantes.
+
+![](https://pbs.twimg.com/media/DFL0X5TXsAAABkW.jpg)
+
+Pourquoi ce nouvel effort dans un autre domaine ?
+Simlement, je vous ai écrit l'urgence de sortir d'un modèle basé sur le pétrol, alors les robots sous-marins, les colones bactériennes, les gants en latex, les outils, les imprimantes 3D, les ordinateurs, que nous utilisons ont grandement et rapidement beson d'alternative crédibles aux matériax existant. C'est encore ici l'hisoire de co-concevoir les bases favorables à l'expressions de nosn arts et techniques qui en jeu. 
+
+### Transmettre, enseigner, écoles et entreprises
+
 
