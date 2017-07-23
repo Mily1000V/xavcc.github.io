@@ -1,7 +1,7 @@
 ---
 layout: post
 tilte: Pratiques du biomimétisme ? Faire des petits bouts de trucs...
-date: 201707-21
+date: 2017-07-21
 categories: ["hsociety"]
 ---
 
