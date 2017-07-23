@@ -6,10 +6,10 @@ categories: ["hsociety"]
 ---
 
 Alors que je pratique le biomimetisme et l'écologie, j'ai très envie de vous raconter pourquoi je m'intéresse au hacking de protocole de communication, au robot sous marin, aux données topographiques de la NASA, aux bactéries, aux biomateriaux et enfin à l'éthique et la gouvernance.
-Car pour l'instant il semblerait que cela soit très floue pour beaucoup.
-Mais en fait tout cela peut se résumer un exemple explicite. 
+Car pour l'instant il semblerait que cela soit très floue pour beaucoup autour de moi et même pour des personnes plus éloignées.
+Mais en fait tout cela peut se résumer un exemple explicite que je vous laisse découvrir en fin de page. 
 
-cet article, à l'inventaire non exhaustif, n'a pas vocation à flatter mon égo, il destiné, au travers d'un parcours humain, à expliciter la cohérence entre plusieurs actions menées collectivement. Je dois ses possibilités d'agir à de nombreuses personnes et amis que je remercie très profondément et sincèrement au passage. 
+Cet article, à l'inventaire non exhaustif, n'a pas vocation à flatter mon égo, il destiné, au travers d'un parcours humain, à expliciter la cohérence entre plusieurs actions menées collectivement. Je dois ses possibilités d'agir à de nombreuses personnes et amis que je remercie très profondément et sincèrement au passage. 
 
 ![](https://framapic.org/FLdWMk2ZP4N1/De0BcOIYjoZc "Windell Oskay
 A Lego fish on a Lego bicycle License CC BY")
@@ -34,7 +34,7 @@ Ainsi, je me suis retrouvé très vite débordé par l'ampleur de l'impulsion av
 Vous me direz que cela est un peu éloigné du biomimétisme, rapidement explicité ci-avant. Certes, mais le fonctionnement systémique et l'analogie de nos fonctionnements sociaux avec un [réseau trophique](https://fr.wikipedia.org/wiki/R%C3%A9seau_trophique) m'a semblé nécessaire à cette époque avant de vouloir pérenniser l'aventure du HackLab et d'engager des collaborations. 
 Cette aventure itinérante m'a permis de devinir un contributeur assidu sur la documenation et le partage des pratiques collaboratives sur [Multibao](http://www.multibao.org) et d'interroger plus profondément [le nomadisme](http://www.multibao.org/#nomades). Pourquoi ? [Lier le nomadisme postmoderne à une volonté de comprendre ce qui a fait de nous une Humanité il y a des milliers d’années?](https://medium.com/@XavierCoadic/lier-le-nomadisme-postmoderne-%C3%A0-une-volont%C3%A9-de-comprendre-ce-qui-a-fait-de-nous-une-humanit%C3%A9-il-y-a-f0b0a37cb75d)
 
-Pour faire la transition vers une explication du lien entre tous les projets rapidement exposés en introduction, je vous fais part du [tour de France 2016](https://paper.dropbox.com/doc/LabOSe-Laboratoire-open-source-dexperiences-libres-et-distribuees-KwBdA6CpH17tiqPcCgmfW) dans lequel je suis lancé dans le vide. Dans ce tour non-ordinaire, j'ai contribué aux travaux et efforts de personnes et aux communs de lieux pour les aider à se monter ou à améliorer leurs prototypes pendant 4 mois et demi. Résultat, comme pour le Bretagne Lab Tour, plus on partage, plus on apprend. "[Le jour où j’ai tout …](https://medium.com/@XavierCoadic/le-jour-o%C3%B9-j-ai-tout-98e46619b654)" est dévenu le jour depuis lequel je réinterroge sans cesse les pratiques et les usages qui gravitent plus ou moins proche de l'aventure du hacklab de Biomimétisme.
+Pour faire la transition vers une explication du lien entre tous les projets rapidement exposés en introduction, je vous fais part du [tour de France 2016](https://paper.dropbox.com/doc/LabOSe-Laboratoire-open-source-dexperiences-libres-et-distribuees-KwBdA6CpH17tiqPcCgmfW) dans lequel je me suis lancé dans le vide, sans sécurité aucune. Dans ce tour non-ordinaire, j'ai contribué aux travaux et efforts de personnes et aux communs de lieux pour les aider à se monter ou à améliorer leurs prototypes pendant 4 mois et demi. Résultat, comme pour le Bretagne Lab Tour, plus on partage, plus on apprend. "[Le jour où j’ai tout …](https://medium.com/@XavierCoadic/le-jour-o%C3%B9-j-ai-tout-98e46619b654)" est dévenu le jour depuis lequel je réinterroge sans cesse les pratiques et les usages qui gravitent plus ou moins proche de l'aventure du hacklab de Biomimétisme.
 
 > Début du XX siècle : Les principes d'hybridation des univers culturels et des pratiques par l'exemple Otto Herbert Schmitt. Il a inventé le terme biomimétisme pour décrire un mode d'exploration du Vivant en tant que source de solutions efficientes et moins coûteuses à de nombreux problèmes.
 
@@ -124,19 +124,23 @@ Et parfois nous cultivons le SCOBY, Symbiotic Colony Of Bacterai and Yeast, qui 
 ![](https://pbs.twimg.com/media/DFL0X5TXsAAABkW.jpg)
 
 Pourquoi ce nouvel effort dans un autre domaine ?
-Simlement, je vous ai écrit l'urgence de sortir d'un modèle basé sur le pétrole, alors les robots sous-marins, les colones bactériennes, les gants en latex, les outils, les imprimantes 3D, les ordinateurs, que nous utilisons ont grandement et rapidement besoin d'alternatives crédibles aux matériax existant. C'est encore ici l'hisoire de co-concevoir les bases favorables à l'expressions de nosn arts et techniques qui est en jeu. 
+Simplement, je vous ai écrit l'urgence de sortir d'un modèle basé sur le pétrole, alors les robots sous-marins, les colones bactériennes, les gants en latex, les outils, les imprimantes 3D, les ordinateurs, que nous utilisons ont grandement et rapidement besoin d'alternatives crédibles aux matériaux existants. C'est encore ici l'histoire de co-concevoir les bases favorables à la réalisation et à l'expression de nos arts et techniques qui est en jeu. 
 
 ### Transmettre, enseigner, écoles et entreprises
 
-Boucler la boucle, ne rien perdre, pérenniser, intérroger, se confronter aux zones d'ignorances pour apprendre, c'est un peu mon carburant, mélanger à une immense confiance dans l'huamain.
+Boucler la boucle, ne rien perdre, pérenniser, intérroger, se confronter aux zones d'ignorances pour apprendre, c'est un peu mon carburant, mélangé à une immense confiance dans l'humain.
 
-Ainsi je me retrouve à faire cours à des ingénieurs diplomés qui se spécilaisent dans l'éco-conception, comme à [l'école des métiers de l'environnement de Rennes](https://paper.dropbox.com/doc/Journee-biomimetisme-EME-Rennes-paSBBhomUB3CeQ6FtCtuk). Ou ecnore faire des workshop aux élèves inégnieurs double diplômes de L'Université de Technologie de Compiègne sur le biomimétisme ou donner des cours d'initiation au Design aux Executive MBA de Rennes, des ateliers et conférence en médiathèque à Paris ou Quiberon, des interventions à l'école des beaux arts de Brest... 
-Cette liste pourrait être longue !
+Alors avec toutes ces expérimentations, ces expériences et prototypages, il y a un somme importante de connaissance produite, de savoirs et savoir-faire acquis. Il est de notre responsabilité, et de la mienne évidemment, de l'entretenir et les jardiner par la documentation et par la transmission en présentiel. 
 
-Quoiqu'il en soit, on se retouve à revenir sur les premiers points abordés en début des ces lignes sur la gourvernance, l'autonomie, le changement de paradigme. Dans cette aventure très riche et humainement merveilleuse, s'il n'y a une seul chose que vous pouvez retenir :
+Ainsi, à la demande de chercheurs, responsables programmes ou pédagogie, je me retrouve à faire cours à des ingénieurs diplomés qui se spécialisent dans l'éco-conception, comme à [l'école des métiers de l'environnement de Rennes](https://paper.dropbox.com/doc/Journee-biomimetisme-EME-Rennes-paSBBhomUB3CeQ6FtCtuk). Ou encore faire des workshop aux élèves inégnieurs double diplômes de L'Université de Technologie de Compiègne sur le biomimétisme ou donner des cours d'initiation au Design aux Executive MBA de Rennes, des ateliers et conférence en médiathèque à Paris ou Quiberon, des interventions à l'école des beaux arts de Brest, dans les INSA... 
+Cette liste pourrait être longue ! J'essaie à chaque occasion d'y embarquer une nouvelle personne provenant des laboratoires citoyens open source, en qualité de pair passeur de savoir, pour lui montrer qu'elle peut elle aussi le faire et lui permettre d'acquérir de l'expéreince pour devenir autonome et faire cours à son tour. 
 
-**Faire des petis bouts de trucs et les assembler ensemble**
+Quoiqu'il en soit, on se retouve sur les premiers points abordés en début des ces lignes sur la gourvernance, l'autonomie, le changement de paradigme. La boucle se régénère mais ne s'arrête pas.
+
+Dans cette aventure très riche et humainement merveilleuse, s'il n'y a une seul chose que vous pouvez retenir :
+
+> **Faire des petis bouts de trucs et les assembler ensemble**
 
 est peut être un des secrets de l'intelligence de la main, de la sagesse du coeur, de la force du cerveau. Pour peu que vous le fassiez avec humilité et déconstruction quotidienne, vous y trouverez peut être un équilibre et un bonheur personnel qui se propagera sur d'autres.
  
-Moi j'ai choisi le biomimétisme pour faire cela, mais cette recette il ne teint qu'à vous de la détourner, la modifier, l'améliorer tout en gardant l'interrogation sur l'éthique de vos pratiques. 
+Moi j'ai choisi le biomimétisme pour réaliser cela, mais cette recette il ne tient qu'à vous de la détourner, la modifier, l'améliorer, tout en gardant l'interrogation sur l'éthique de vos pratiques. 
