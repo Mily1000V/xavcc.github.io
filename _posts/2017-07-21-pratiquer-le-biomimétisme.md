@@ -55,7 +55,7 @@ Bref, un sacré tas de petits bouts de trucs...
 
 Je ne prendrais pas ici une progression chronologique pour vous présenter les réalisations en cours, il sera plus aisé de les présenter par lien de cohérence entre projets. 
 
-#### Gouvernance, éthique, design et teirs-lieux
+#### Gouvernance, éthique, design et tiers-lieux
 
 Je vous ai parlé pue avant d'un tour dans les FabLabs Bretons en 2015, depuis je continue à m'investir dans les chemins de collaborations qui pourraient leurs être utiles, comme à [Auray en 2016](https://annuel.framapad.org/p/fablab-ouest) et à [Rennes en 2017](https://semestriel.framapad.org/p/fabrique2017-fablabs-ouest).
 Si ce travail me pousse à interroger les systèmes de gouverance et l'éthique, il est aussi à mettre en relation avec une recnontre avec Dr Antoine Burret à Lyon en début d'année 2017 pour sa soutenance de thése ["ÉTUDE DE LA CONFIGURATION EN TIERS-LIEU - La repolitisation par le service"](http://movilab.org/index.php?title=Etude_de_la_configuration_en_Tiers-Lieu_-_La_repolitisation_par_le_service). En plus des liens d'amitié noué, nous avons quelques modestes collaborations sur les "[Etapes vers une conception politique du tiers-lieu](http://movilab.org/index.php?title=Etapes_vers_une_conception_politique_du_tiers-lieu)", notamment [ICI](http://movilab.org/index.php?title=Etapes_vers_une_conception_politique_du_tiers-lieu/En_cours).
