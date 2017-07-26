@@ -65,7 +65,7 @@ Car FabLab, tiers-lieux, start-ups etc. Cela fait peut être de jolies appellati
 
 > “La folie, c’est se comporter de la même manière et s’attendre à un résultat différent” Albert Einstein
 
-J'ai donc autant besoin de participer à la co-concpetion de nouveaux outils pour pratiquer un biomimétisme libre et open source que j'en ai de pratiquer mes arts et techniques dans de bonnes conditions. Nous créons alors ensemble les bases d'une autonomie avec une matrice de fonctionnement différente.
+J'ai donc autant besoin de participer à la co-conception de nouveaux outils pour pratiquer un biomimétisme libre et open source que j'en ai de pratiquer mes arts et techniques dans de bonnes conditions. Nous créons alors ensemble les bases d'une autonomie avec une matrice de fonctionnement différente.
 
 j'au aussi fait des petis bouts de trucs sur :
 * le [biennale de l'économie à Rennes](https://xavcc.github.io/hsociety/2016/01/16/nex-eco.html), atelier citoyen sur "Où nous mènent les nouveaux modèles economiques?"
