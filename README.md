@@ -1,3 +1,8 @@
+# S'implqiuer
+Pour contribuer à ce blog,contenu et amélioration technique voir [Backlog](https://github.com/XavCC/xavcc.github.io/projects)
+
+# Thème utilisé
+
 <p align = "center">
 <img src="http://i.imgur.com/JhbQ03z.png"/>
 </p>
