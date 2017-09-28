@@ -27,6 +27,8 @@ Dans sa forme extrême, la Liberté Dorée a été critiquée comme responsable 
 
 Sur le plan théorique, le paradoxe de Condorcet, repris dans le Théorème d'impossibilité d'Arrow montre bien la difficulté d'élaborer des choix collectifs cohérents dès lors que les options possibles sont trop nombreuses (démonstration de la quasi-impossibilité logique d'établir une fonction de préférence collective en agrégeant les préférences individuelles).
 
+Selon ce paradoxe, il n'existe pas de processus de choix social indiscutable, qui permette d'exprimer une hiérarchie des préférences cohérente1 pour une collectivité à partir de l'agrégation des préférences individuelles exprimées par chacun des membres de cette même collectivité. Pour Condorcet, il n'existe pas de système simple assurant cette cohérence. Arrow tente de démontrer, sous réserve d'acceptation de ses hypothèses, qu'il n'existe pas du tout de système assurant la cohérence, hormis celui où le processus de choix social coïncide avec celui d'un seul individu, parfois surnommé dictateur, indépendamment du reste de la population.
+
 > "En cherchant l’unité, le consensus diabolise le conflit et cherche expressément à l’éliminer du fait de son chaos apparent. Le dissensus, lui, en mettant la parole en tension, assure le lien fécond du vivre ensemble." Christophe Pacific
 
 ## Notes supplémentaires et ressources
