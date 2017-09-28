@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Consensus et Consentement"
+title: "OCNI# #2 Objet de Consensus Non Identifé: Consensus et Consentement"
 date:
 categories:["hsociety"]
 ---
