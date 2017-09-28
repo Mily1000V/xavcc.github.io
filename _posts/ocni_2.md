@@ -5,6 +5,12 @@ date:
 categories:["hsociety"]
 ---
 
+Suite à un premier [texte de réflexion et recherche](https://xavcc.github.io/hsociety/2017/08/26/ocni.html) autour du consensus comme base de gouvernance un peu anarchique, puis une MasterClass sur les communautés à Lyon par Yann Heurtaux et enfin une proposition de débat sur consensus et consentement par Florence Nuzelec, voici quelques apports à cette réflexion collective sur l'_OCNI_
+
+## Consensus
+
+> "Le consensus a pour finalité d’éliminer le conflit." Dr en philosophie Christophe Pacific
+
 Consensus est un mot latin qui signifie « accord », au sens de « sentiment commun »
 L'opinion collective n'est pas un consensus, mais une opinion reçue, un alignement sur une orthodoxie.
 La recherche du consensus permet d'éviter que la majorité impose ses décisions à la minorité, puisque le veto permet à chacun de refuser une solution qui ne lui convient vraiment pas 
@@ -19,6 +25,25 @@ Sur le plan historique, l'expérience de la Diète polonaise, a chambre basse du
 La Diète n'est réunie que sur l'invitation du souverain et pour lui donner son avis sur les mesures à prendre. Ses décisions devant être prises à l'unanimité, son fonctionnement concret conduit le plus souvent à la paralysie et à l'incapacité de prendre la moindre décision : après des débuts prometteurs au XVIe siècle, la « Liberté dorée » passera à la postérité comme une caricature désastreuse de la représentation politique. Il s'agissait d'une exception, caractérisée par une puissante aristocratie et par un roi faible, durant une période où l'absolutisme se développait dans la majorité des autres pays de l'Europe ― une exception, néanmoins, qui comportait des similitudes frappantes avec des conceptions contemporaines 3. Durant une période où la plupart des pays européens se dirigeaient vers la centralisation, la monarchie absolue sur fond de querelles religieuses et dynastiques, la République des Deux Nations se tournait vers la décentralisation, la confédération et la fédération, la démocratie, la tolérance religieuse et même le pacifisme.
 Dans sa forme extrême, la Liberté Dorée a été critiquée comme responsable des « guerres internes et des invasions, de la faiblesse nationale, de l'indécision et la pauvreté d'esprit », notamment par Peter Brock, John D. Stanley, Piotr Wróbel dans [Nation and History: Polish Historians from the Enlightenment to the Second World War](https://frama.link/hTxKR19H).
 
-Sur le plan théorique, le paradoxe de Condorcet, repris dans le Théorème d'impossibilité d'Arrow montre bien la difficulté d'élaborer des choix collectifs cohérents dès lors que les options possibles sont trop nombreuses (démonstration de la quasi-impossibilité logique d'établir une fonction de préférence collective en agrégeant les préférences individuelles). 
+Sur le plan théorique, le paradoxe de Condorcet, repris dans le Théorème d'impossibilité d'Arrow montre bien la difficulté d'élaborer des choix collectifs cohérents dès lors que les options possibles sont trop nombreuses (démonstration de la quasi-impossibilité logique d'établir une fonction de préférence collective en agrégeant les préférences individuelles).
+
+> "En cherchant l’unité, le consensus diabolise le conflit et cherche expressément à l’éliminer du fait de son chaos apparent. Le dissensus, lui, en mettant la parole en tension, assure le lien fécond du vivre ensemble." Christophe Pacific
+
+## Notes supplémentaires et ressources
+
+EN plus des liens dissiminés dans cet article, voici quelques notes et ressources explorées sur le sujet traités.
+
++ [Consensus Decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making), Wikipedia
++ [Éthique du dissensus : la complétude du deux au service du soin](http://www.theses.fr/2008PEST0253), Thèse en philosophie de Cristophe Pacific Sous la direction de Dominique Folscheid. 
+> Nous  devons,  dès lors, nous interroger sur cette  apparente  évidence  et  sur  c(nouveau ?) besoin de consensus : ce qu’il est, ce qu’il promet, ce qu’il assure et ce qu’il 
+ne  garantit  pas.  Nous  tenterons  de  dénoncer l’utopie d’une  communauté  idéale  de  la 
+discussion  et  la  facilité  avec  laquelle  nous  risquons  d’évoluer  dans  cette  utopie  de 
+consensus, de valeurs suspectes, jusqu’au point où l’intelligence ressemblerait trait pour trait à de la bêtise et quelquefois même à de la monstruosité. Que se passe-t-il au sein de 
+la   négociation ?  Ne s’exerce-t-il pas  « une  autorité à la fois institutionnelle et 
+énonciative,  c’est  à  dire  d’un  pouvoir  qui  se  voudrait  le  gardien  et  le  porte-parole 
+légitime  des  valeurs de  notre  société ?»  C’est  ici  que  se  détermine l’éthique de la 
+discussion et qu’une exploration  mérite  d’être  menée pour y décrypter les enjeux et le sens  des  conclusions. La prétention  humaine de traiter  les  apories contemporaines tout 
+en se préservant de décisions nocives n’est-elle pas utopique ?
+
 
 
