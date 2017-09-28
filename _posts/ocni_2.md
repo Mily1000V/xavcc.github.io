@@ -9,6 +9,9 @@ Consensus est un mot latin qui signifie « accord », au sens de « sentiment co
 L'opinion collective n'est pas un consensus, mais une opinion reçue, un alignement sur une orthodoxie.
 La recherche du consensus permet d'éviter que la majorité impose ses décisions à la minorité, puisque le veto permet à chacun de refuser une solution qui ne lui convient vraiment pas 
 
+
+### Retour littéraire, historique et théorique sur la gouvernance
+
 La fable de La Fontaine, (« Le Meunier, son Fils et l'Âne ») montre que les décisions peuvent ne pas tenir longtemps du fait de l'inconséquence et de l'irrésolution personnelle du décideur.
 
 Sur le plan historique, l'expérience de la Diète polonaise, a chambre basse du Parlement polonais, illustre jusqu'à la caricature l'état de paralysie auquel aboutit une représentation politique basée sur la règle trop exigeante de l'unanimité.
