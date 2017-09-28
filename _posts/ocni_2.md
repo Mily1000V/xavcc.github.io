@@ -13,7 +13,9 @@ Suite à un premier [texte de réflexion et recherche](https://xavcc.github.io/h
 
 Consensus est un mot latin qui signifie « accord », au sens de « sentiment commun »
 L'opinion collective n'est pas un consensus, mais une opinion reçue, un alignement sur une orthodoxie.
-La recherche du consensus permet d'éviter que la majorité impose ses décisions à la minorité, puisque le veto permet à chacun de refuser une solution qui ne lui convient vraiment pas 
+La recherche du consensus permet d'éviter que la majorité impose ses décisions à la minorité, puisque le veto permet à chacun de refuser une solution qui ne lui convient vraiment pas.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Consensus_traduit.jpg/530px-Consensus_traduit.jpg "JojoLIDE56 for wikipedia Licence CC BY SA")
 
 
 ### Retour littéraire, historique et théorique sur la gouvernance
