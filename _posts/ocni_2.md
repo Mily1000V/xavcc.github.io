@@ -5,9 +5,20 @@ date:
 categories:["hsociety"]
 ---
 
+
+
 Suite à un premier [texte de réflexion et recherche](https://xavcc.github.io/hsociety/2017/08/26/ocni.html) autour du consensus comme base de gouvernance un peu anarchique, puis une MasterClass sur les communautés à Lyon par Yann Heurtaux et enfin une proposition de débat sur consensus et consentement par Florence Nuzelec, voici quelques apports à cette réflexion collective sur l'_OCNI_
 
 ## Consensus
+
+Le consensus semble ne pouvoir fonctionner qu'entre contributeurs raisonnables qui essayent de travailler ensemble de bonne foi pour décrire de manière correcte et appropriée tous les points de vue pertinents sur un sujet
+
+Nous avions d'ailleurs travailler cette articulation avec le Biome HackLab et l'appui de nombreuses personnes dont Samuel Bosson, Arthur Masson Mathieu Brient pour la résumer ainsi :
+
+**Postulat de départ pour gouvernance par consensus** : 
+
+- Les règles sont accessibles, documentées et appréhendables
+- Les parties en présence entretiennent un commun et vise à son amélioration continue
 
 > "Le consensus a pour finalité d’éliminer le conflit." Dr en philosophie Christophe Pacific
 
