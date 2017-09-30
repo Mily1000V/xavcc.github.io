@@ -20,11 +20,13 @@ Nous avions d'ailleurs travailler cette articulation avec le Biome HackLab et l'
 - Les règles sont accessibles, documentées et appréhendables
 - Les parties en présence entretiennent un commun et vise à son amélioration continue
 
-> "Le consensus a pour finalité d’éliminer le conflit." Dr en philosophie Christophe Pacific
+> [Julien Lecaille](https://mamot.fr/@JulienLecaille) : "_la contribution aux communs peut prendre plusieurs formes : en temps, en argent, un investissement (quel qu'il soit) régulier et suivi, ou un une participation ponctuelle... De même, la contribution peut être perçue comme une activité annexe ou principale. Finalement : à quel moment et pour quel type de contribution devient-on "contributeur" ?_"
 
 Consensus est un mot latin qui signifie « accord », au sens de « sentiment commun »
 L'opinion collective n'est pas un consensus, mais une opinion reçue, un alignement sur une orthodoxie.
 La recherche du consensus permet d'éviter que la majorité impose ses décisions à la minorité, puisque le veto permet à chacun de refuser une solution qui ne lui convient vraiment pas.
+
+> "Le consensus a pour finalité d’éliminer le conflit." Dr en philosophie Christophe Pacific
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Consensus_traduit.jpg/530px-Consensus_traduit.jpg "JojoLIDE56 for wikipedia Licence CC BY SA")
 
@@ -43,6 +45,14 @@ Sur le plan théorique, le paradoxe de Condorcet, repris dans le Théorème d'im
 Selon ce paradoxe, il n'existe pas de processus de choix social indiscutable, qui permette d'exprimer une hiérarchie des préférences cohérente1 pour une collectivité à partir de l'agrégation des préférences individuelles exprimées par chacun des membres de cette même collectivité. Pour Condorcet, il n'existe pas de système simple assurant cette cohérence. Arrow tente de démontrer, sous réserve d'acceptation de ses hypothèses, qu'il n'existe pas du tout de système assurant la cohérence, hormis celui où le processus de choix social coïncide avec celui d'un seul individu, parfois surnommé dictateur, indépendamment du reste de la population.
 
 > "En cherchant l’unité, le consensus diabolise le conflit et cherche expressément à l’éliminer du fait de son chaos apparent. Le dissensus, lui, en mettant la parole en tension, assure le lien fécond du vivre ensemble." Christophe Pacific
+
+## Consentement
+
+Il semble que dans l'univers de la facilitation l'usage du consensus ne fasse pas recette, pour une partie de cette commuanuté de pratique tout du moins.
+
+Jean-Philippe Poupard s'interroge sur "[La recherche du consensus est-elle un piège ?](http://www.leblogdelafacilitation.com/la-recherche-du-consensus-est-elle-un-piege/)" puis écrira "A force de compromis pour faire rencontrer les bords opposés, les frustrations s’installent, nuisant à la qualité du travail et pénalisant l’avancée du groupe.", ce qui me semble là être un amalgame grossier entre consensus et compromis.
+Ce mot est composé des préfixe con- (« ensemble ») et pro- (« pour ») et de mettre. Il est, pour le mot, dérivé du latin compromissum (sens identique), dérivé du verbe compromittere (« promettre en même temps »).
+Pour consensus, de consens (XVIe siècle), lui-même du latin consensus (« accord, adhésion, unanimité »), de consentire (« ressentir ensemble, consentir »).
 
 ## Notes supplémentaires et ressources
 
