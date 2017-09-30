@@ -54,6 +54,10 @@ Jean-Philippe Poupard s'interroge sur "[La recherche du consensus est-elle un pi
 Ce mot est composé des préfixe con- (« ensemble ») et pro- (« pour ») et de mettre. Il est, pour le mot, dérivé du latin compromissum (sens identique), dérivé du verbe compromittere (« promettre en même temps »).
 Pour consensus, de consens (XVIe siècle), lui-même du latin consensus (« accord, adhésion, unanimité »), de consentire (« ressentir ensemble, consentir »).
 
+La peer to peer Foudation s'intéroge également sur une opposition "[Consent vs. Consensus](https://wiki.p2pfoundation.net/Consent_vs._Consensus)". Un copié-collé de texte qui enferme le consensus dans une approche néo-anarchiste et le consetement dans une approche sociocratique.
+
+Je trouve étrange que, si les deux régards de ces individus se portent sur une opposition franche, en plus de cette opposition il n'y ait aucun effort d'analyse sur le rôle du dissensus. 
+
 ## Notes supplémentaires et ressources
 
 EN plus des liens dissiminés dans cet article, voici quelques notes et ressources explorées sur le sujet traités.
