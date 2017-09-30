@@ -7,7 +7,7 @@ categories:["hsociety"]
 
 
 
-Suite à un premier [texte de réflexion et recherche](https://xavcc.github.io/hsociety/2017/08/26/ocni.html) autour du consensus comme base de gouvernance un peu anarchique, puis une MasterClass sur les communautés à Lyon par Yann Heurtaux et enfin une proposition de débat sur consensus et consentement par Florence Nuzelec, voici quelques apports à cette réflexion collective sur l'_OCNI_
+Suite à un premier [texte de réflexion et recherche](https://xavcc.github.io/hsociety/2017/08/26/ocni.html) autour du consensus comme base de gouvernance un peu anarchique, puis une MasterClass sur les communautés à Lyon par Yann Heurtaux et enfin une proposition de débat sur consensus et consentement par Florence le Nuzlec, voici quelques apports à cette réflexion collective sur l'_OCNI_
 
 ## Consensus
 
