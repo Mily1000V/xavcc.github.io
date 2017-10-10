@@ -11,7 +11,7 @@ Suite à un premier [texte de réflexion et recherche](https://xavcc.github.io/h
 
 ## Consensus
 
-Le consensus semble ne pouvoir fonctionner qu'entre contributeurs raisonnables qui tentent à travailler ensemble de bonne foi. Dans ce processus collabroatif ils s'attachent à  décrire de manière correcte et appropriée tous les points de vue pertinents sur un sujet proposé. C'est le principe de dialogue.
+Le consensus semble ne pouvoir fonctionner qu'entre contributeurs raisonnables qui tentent à travailler ensemble en bonne confiance. Dans ce processus collabroatif ils s'attachent à décrire de manière correcte et appropriée tous les points de vue pertinents sur un sujet proposé. C'est le principe de dialogue.
 
 Nous avions d'ailleurs travaillé cette articulation avec le Biome HackLab et l'appui de nombreuses personnes dont Samuel Bosson, Arthur Masson Mathieu Brient pour la résumer ainsi :
 
@@ -24,7 +24,7 @@ Nous avions d'ailleurs travaillé cette articulation avec le Biome HackLab et l'
 
 Consensus est un mot latin qui signifie « accord », au sens de « sentiment commun »
 L'opinion collective n'est pas un consensus, mais une opinion reçue, un alignement sur une orthodoxie.
-"Consentio", consentir, est en latin le passé simple de "Consensus". Si les mots expriment souvent des concepts, il y a ici une sémantique à ne pas négliger et donc à appronfondir.
+"Consentio", « consentir », est en latin le passé simple de "Consensus". Si les mots expriment souvent des concepts, il y a ici une sémantique à ne pas négliger et donc à appronfondir.
 
 La recherche du consensus permet d'éviter que la majorité impose ses décisions à la minorité, puisque le veto permet à chacun de refuser une solution qui ne lui convient vraiment pas.
 
@@ -48,24 +48,46 @@ Le meunier monte en premier sur l’âne, puis son fils le suit à pied ; comme 
 
 _NDLR: le "on" est le pronom indéfini employé par La Fontaine dans le texte pour illustrer l' alignement sur une orthodoxie._
 
-Si un système de consensus doit être conçu pour une gourverance, il devra s'attacher au problème des décisions obsolescentes du fait de l'inconséquence et de l'irrésolution personnelle d'un individu unique mis en responsabilité de décisison. 
+Si un système de consensus doit être conçu pour une gourverance, il aurait intérêt à s'attacher au problème des décisions obsolescentes du fait de l'inconséquence et de l'irrésolution personnelle d'un individu unique mis en responsabilité de décisison. 
 
 #### Histoire de gouvernement Polonais
 
-Sur le plan historique, l'expérience de la Diète polonaise, a chambre basse du Parlement polonais, illustre jusqu'à la caricature l'état de paralysie auquel abgoutit une représentation politique basée sur la règle trop exigeante de l'unanimité.
+Sur le plan historique, l'expérience de la [Diète polonaise](https://fr.wikipedia.org/wiki/Di%C3%A8te_de_Pologne), la chambre basse du Parlement polonais, illustre jusqu'à la caricature l'état de paralysie auquel abgoutit une représentation politique basée sur la règle trop exigeante de l'unanimité. L'opinion collective n'étant pas un consensus.
 
-La Diète n'est réunie que sur l'invitation du souverain et pour lui donner son avis sur les mesures à prendre. Ses décisions devant être prises à l'unanimité, son fonctionnement concret conduit le plus souvent à la paralysie et à l'incapacité de prendre la moindre décision : après des débuts prometteurs au XVIe siècle, la « Liberté dorée » passera à la postérité comme une caricature désastreuse de la représentation politique. Il s'agissait d'une exception, caractérisée par une puissante aristocratie et par un roi faible, durant une période où l'absolutisme se développait dans la majorité des autres pays de l'Europe ― une exception, néanmoins, qui comportait des similitudes frappantes avec des conceptions contemporaines 3. Durant une période où la plupart des pays européens se dirigeaient vers la centralisation, la monarchie absolue sur fond de querelles religieuses et dynastiques, la République des Deux Nations se tournait vers la décentralisation, la confédération et la fédération, la démocratie, la tolérance religieuse et même le pacifisme.
-Dans sa forme extrême, la Liberté Dorée a été critiquée comme responsable des « guerres internes et des invasions, de la faiblesse nationale, de l'indécision et la pauvreté d'esprit », notamment par Peter Brock, John D. Stanley, Piotr Wróbel dans [Nation and History: Polish Historians from the Enlightenment to the Second World War](https://frama.link/hTxKR19H).
+La Diète n'est réunie que sur l'invitation du souverain, point de départ sans base collective ; convoquée uniquement pour lui donner son avis sur les mesures à prendre, semblable au "on" dans la fablede la Fontaine. Les avis devant être pris à l'unanimité, dans une forme d'orthodoxie.
 
-Sur le plan théorique, le paradoxe de Condorcet, repris dans le Théorème d'impossibilité d'Arrow montre bien la difficulté d'élaborer des choix collectifs cohérents dès lors que les options possibles sont trop nombreuses (démonstration de la quasi-impossibilité logique d'établir une fonction de préférence collective en agrégeant les préférences individuelles).
+Après des débuts prometteurs au XVIe siècle, la « Liberté dorée » passera à la postérité comme une caricature désastreuse de la représentation politique. la Liberté Dorée se complaisait et profitait uniquement à la noblesse, excluant les paysans et les habitants des villes et ne fournissait aucune garantie de protection des droits individuels à la majorité de la population. Cet échec à protéger la population des excès de la noblesse provenait du lent développement des villes et de l'aggravation du poids du servage sur la paysannerie polono-lituanienne à partir du XVIIe siècle.
 
-Selon ce paradoxe, il n'existe pas de processus de choix social indiscutable, qui permette d'exprimer une hiérarchie des préférences cohérente1 pour une collectivité à partir de l'agrégation des préférences individuelles exprimées par chacun des membres de cette même collectivité. Pour Condorcet, il n'existe pas de système simple assurant cette cohérence. Arrow tente de démontrer, sous réserve d'acceptation de ses hypothèses, qu'il n'existe pas du tout de système assurant la cohérence, hormis celui où le processus de choix social coïncide avec celui d'un seul individu, parfois surnommé dictateur, indépendamment du reste de la population.
+Il s'agissait d'une exception, caractérisée par une puissante aristocratie et par un roi faible, durant une période où l'absolutisme se développait dans la majorité des autres pays de l'Europe ― une exception, néanmoins, qui comportait des similitudes frappantes avec des conceptions contemporaines comme des industriels puissants de des élus affaiblis ?
 
-> "En cherchant l’unité, le consensus diabolise le conflit et cherche expressément à l’éliminer du fait de son chaos apparent. Le dissensus, lui, en mettant la parole en tension, assure le lien fécond du vivre ensemble." Christophe Pacific
+Dans une période où la plupart des pays d'Europe de l'Ouest se dirigeaient vers la centralisation et la monarchie absolue sur fond de querelles religieuses et dynastiques, la République des "Deux Nations" se tournait vers la décentralisation, la confédération et la fédération, la démocratie, la tolérance religieuse et même le pacifisme. 
+
+Un paradoxe qui naît dans les interstcices entre les volonté de "tendre vers" et les réalités de la mise en expérimentation d'une gouverance adapté.
+
+Dans sa forme extrême, la Liberté Dorée fut critiquée comme responsable des « guerres internes et des invasions, de la faiblesse nationale, de l'indécision et la pauvreté d'esprit », notamment par Peter Brock, John D. Stanley, Piotr Wróbel dans [Nation and History: Polish Historians from the Enlightenment to the Second World War](https://frama.link/hTxKR19H). la République des Deux Nations a accusé un déclin graduel jusqu'au bord de l'anarchie du fait des dysfonctionnements du système notamment par le liberum veto « j'interdis librement », injonction paradoxale soeur de « sois libre ».
+
+Si un système de consensus doit être conçu pour une gourverance, il aurait intérêt limiter voir anhiler les effets de concentration de pouvoir par élitisme social. Il devra être le grant d'un commun avec comme enjeux, parmis d'autres, de la protection des propulations et des individus. La question se posera alors si ce consensus protègera uniquement celles et ceux qui participent à ces Communs ou, plus largement, toutes populations et individus sans distinction aucune. 
+
+_NDLR: [Passagers clandestins : difficulté ou opportunité ?](http://ic.fing.org/news/les-passagers-clandestins-difficulte-ou-opportunite)_
+
+#### Paradoxe de Condorcet
+
+Sur le plan théorique, le [paradoxe de Condorcet](https://fr.wikipedia.org/wiki/Paradoxe_de_Condorcet), repris dans le Théorème d'impossibilité d'Arrow, montre la difficulté d'élaborer des choix collectifs cohérents dès lors que les options possibles sont trop nombreuses (démonstration de la quasi-impossibilité logique d'établir une fonction de préférence collective en agrégeant les préférences individuelles).
+
+Selon ce paradoxe, il n'y pas de processus de choix social indiscutable qui permettrait d'exprimer une hiérarchie cohérente des préférences pour une collectivité à partir de la simple agrégation des préférences individuelles exprimées par chacun des membres de cette même collectivité. 
+
+Pour Condorcet, il semble ne pas exister de système simple assurant cette cohérence. Arrow, dans son [théorème de l'impossibilité](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_d%27impossibilit%C3%A9_d%27Arrow), tente de démontrer, sous réserve d'acceptation de ses hypothèses, qu'il n'existe pas du tout de système, ni simple, ni complexe, assurant la cohérence, hormis celui où le processus de choix social coïncide avec celui d'un seul individu, parfois surnommé dictateur, indépendamment du reste de la population. Ou d'u petit groupe remplissant la focntionde dictateur comme pour la Liberté Dorée, mais la encore c'est un système voué à l'échec. 
+
+Si un système de consensus doit être conçu pour une gourverance, il aurait intérêt à ne pas renforcer les gripages de déroulement collectif comme ceux révélés dans ces paradoxe. Il aurait intérêt a expérimenter un focntionnement sans vote, avec une pértuelle remise en cause amélioration de ce processus.
+
+
+
+
+> "_En cherchant l’unité, le consensus diabolise le conflit et cherche expressément à l’éliminer du fait de son chaos apparent. Le dissensus, lui, en mettant la parole en tension, assure le lien fécond du vivre ensemble._" Christophe Pacific
 
 ## Consentement
 
-Il semble que dans l'univers de la facilitation l'usage du consensus ne fasse pas recette, pour une partie de cette commuanuté de pratique tout du moins.
+Il semble que dans l'univers de la « facilitation » l'usage du consensus ne fasse pas recette, pour une partie de cette commuanuté de pratique tout du moins.
 
 Jean-Philippe Poupard s'interroge sur "[La recherche du consensus est-elle un piège ?](http://www.leblogdelafacilitation.com/la-recherche-du-consensus-est-elle-un-piege/)" puis écrira "A force de compromis pour faire rencontrer les bords opposés, les frustrations s’installent, nuisant à la qualité du travail et pénalisant l’avancée du groupe.", ce qui me semble là être un amalgame grossier entre consensus et compromis.
 Ce mot est composé des préfixe con- (« ensemble ») et pro- (« pour ») et de mettre. Il est, pour le mot, dérivé du latin compromissum (sens identique), dérivé du verbe compromittere (« promettre en même temps »).
@@ -94,5 +116,7 @@ en se préservant de décisions nocives n’est-elle pas utopique ?
 + Ésope, [table des fables](https://fr.wikisource.org/wiki/Fables_d%E2%80%99%C3%89sope)
 + [Le Comte Lucanor](https://fr.wikipedia.org/wiki/Le_Comte_Lucanor) 
 + [Les Facéties du Pogge et leur influence](http://www.persee.fr/doc/rhren_0181-6799_1977_num_7_1_1054)
++ [Résultats des élections à le Diète](http://www.europe-politique.eu/elections-pologne.htm), depuis 1991.
++ [la liberté dorée](https://fr.wikipedia.org/wiki/Libert%C3%A9_dor%C3%A9e) du royaume de Pologne.
 
 
