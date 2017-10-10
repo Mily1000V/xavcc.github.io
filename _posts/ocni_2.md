@@ -102,7 +102,8 @@ Il semble que dans l'univers de la « facilitation » l'usage du consensus ne fa
 Jean-Philippe Poupard s'interroge sur "[La recherche du consensus est-elle un piège ?](http://www.leblogdelafacilitation.com/la-recherche-du-consensus-est-elle-un-piege/)" puis écrira "_A force de compromis pour faire rencontrer les bords opposés, les frustrations s’installent, nuisant à la qualité du travail et pénalisant l’avancée du groupe._", ce qui me semble là être un amalgame grossier entre consensus et compromis.
 
 Ce mot est composé des préfixe con- (« ensemble ») et pro- (« pour ») et de mettre. Il est, pour le mot, dérivé du latin compromissum (sens identique), dérivé du verbe compromittere (« promettre en même temps »).
-Pour consensus, de consens (XVIe siècle), lui-même du latin consensus (« accord, adhésion, unanimité »), de consentire (« ressentir ensemble, consentir »).
+Pour consensus, de consens (XVIe siècle), lui-même du latin consensus (« accord, adhésion»), de consentire (« ressentir ensemble, consentir »). Comme evoqué en début d'article, consentio (« consentement ») est le passé simple de consensus. Serait-ce alors un préalable à un consensus, telle un acte de pépaparation à un présent choix ?
+En réthorique le consentement est un terme "vieilli" pour la concession, qui est un moyen d'accepter les arguments de l'adversaire, parfois de façon ironique, parfois pour les contredire.
 
 La peer to peer Foudation s'intéroge également sur une opposition "[Consent vs. Consensus](https://wiki.p2pfoundation.net/Consent_vs._Consensus)". Un copié-collé de texte qui enferme le consensus dans une approche néo-anarchiste et le consetement dans une approche sociocratique.
 
