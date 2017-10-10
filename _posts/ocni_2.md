@@ -91,9 +91,16 @@ Il y a toujours un "Mais". Ici il serait un système absé sur le consensus qui 
 
 ## Consentement
 
-Il semble que dans l'univers de la « facilitation » l'usage du consensus ne fasse pas recette, pour une partie de cette commuanuté de pratique tout du moins.
+Dans la recherche de collaboration effective, avec ou non entreteien d'un commun, de nombreux obstacles appraissent. Les quelques ci-avant cités liés aux problématiques de gouvernances en sont peut être illustratifs mais ne sont pas les seuls.
 
-Jean-Philippe Poupard s'interroge sur "[La recherche du consensus est-elle un piège ?](http://www.leblogdelafacilitation.com/la-recherche-du-consensus-est-elle-un-piege/)" puis écrira "A force de compromis pour faire rencontrer les bords opposés, les frustrations s’installent, nuisant à la qualité du travail et pénalisant l’avancée du groupe.", ce qui me semble là être un amalgame grossier entre consensus et compromis.
+Pour résoudre des défis d'atteintes d'objectifs il existe un metier dans je fréquente certains et certaines praticiens et praiticiens qui me semble être de grande qualité.
+
+> "_La facilitation peut être vue comme un ensemble de fonctions dynamiques qui sont exécutées avant, pendant et après une rencontre pour aider un groupe à atteindre ses objectifs_" Wikipédia
+
+Il semble que dans l'univers de la « facilitation » l'usage du consensus ne fasse pas recette, pour une partie de cette commuanuté de pratique tout du moins. Florence Le Nulzec me l'a d'ailleurs fait remonter. 
+
+Jean-Philippe Poupard s'interroge sur "[La recherche du consensus est-elle un piège ?](http://www.leblogdelafacilitation.com/la-recherche-du-consensus-est-elle-un-piege/)" puis écrira "_A force de compromis pour faire rencontrer les bords opposés, les frustrations s’installent, nuisant à la qualité du travail et pénalisant l’avancée du groupe._", ce qui me semble là être un amalgame grossier entre consensus et compromis.
+
 Ce mot est composé des préfixe con- (« ensemble ») et pro- (« pour ») et de mettre. Il est, pour le mot, dérivé du latin compromissum (sens identique), dérivé du verbe compromittere (« promettre en même temps »).
 Pour consensus, de consens (XVIe siècle), lui-même du latin consensus (« accord, adhésion, unanimité »), de consentire (« ressentir ensemble, consentir »).
 
