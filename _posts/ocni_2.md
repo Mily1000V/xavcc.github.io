@@ -137,5 +137,9 @@ en se préservant de décisions nocives n’est-elle pas utopique ?
 + [Les Facéties du Pogge et leur influence](http://www.persee.fr/doc/rhren_0181-6799_1977_num_7_1_1054)
 + [Résultats des élections à le Diète](http://www.europe-politique.eu/elections-pologne.htm), depuis 1991.
 + [la liberté dorée](https://fr.wikipedia.org/wiki/Libert%C3%A9_dor%C3%A9e) du royaume de Pologne.
++ [Ghost in the consensus](https://www.coindesk.com/ethereum-seeing-ghosts-vitalik-buterin-is-finally-formalizing-ethereums-casper-upgrade/), tech resources & blockchain
++ [Democracy – the real ‘ghost’ in the machine of global health policy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154553/), NBCI Publication, Andrew Harmer
++  Technologie, consensus et fork : [L'EFF propose sa propre version de Do Not Track et finalise son Privacy Badger](https://www.nextinpact.com/news/96049-leff-propose-sa-propre-version-de-do-not-track-et-finalise-son-privacy-badger.htm?skipua=1)
++  Pratiques de recherche: [Pratiques de la réciprocité](http://www.pnls.fabriquesdesociologie.net/pratiques-de-la-reciprocite/), 3 septembre 2017 Pascal NICOLAS-LE STRAT	
 
 
