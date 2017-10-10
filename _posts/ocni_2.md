@@ -84,7 +84,7 @@ Il y a toujours un "Mais". Ici il serait un système absé sur le consensus qui 
 
 + Permettre aux individus de prendre soin d'eux-mêmes et de prendre soins les uns des autres = **Risque individualiste**
 + Prendre en considération et alimenter,comme on jardine un paysage nourricier, des Communs = **Risque Communautariste**
-+ Éviter que la majorité impose ses décisions à la minorité = **Risque Autoritarise**
++ Éviter que la majorité impose ses décisions à la minorité = **Risque Autoritariste**
 + Ne jamais éliminer ce qui n'apparait pas dansun instant présent utile = **Risque Utilitariste**
 
 > "_En cherchant l’unité, le consensus diabolise le conflit et cherche expressément à l’éliminer du fait de son chaos apparent. Le dissensus, lui, en mettant la parole en tension, assure le lien fécond du vivre ensemble._" Christophe Pacific
