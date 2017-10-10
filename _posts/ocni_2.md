@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OCNI# #2 Objet de Consensus Non Identifé: Consensus et Consentement"
-date:
+date: 2017-10-10
 categories:["hsociety"]
 ---
 
@@ -99,26 +99,38 @@ Pour résoudre des défis d'atteintes d'objectifs il existe un metier dans je fr
 
 Il semble que dans l'univers de la « facilitation » l'usage du consensus ne fasse pas recette, pour une partie de cette commuanuté de pratique tout du moins. Florence Le Nulzec me l'a d'ailleurs fait remonter. 
 
-Jean-Philippe Poupard s'interroge sur "[La recherche du consensus est-elle un piège ?](http://www.leblogdelafacilitation.com/la-recherche-du-consensus-est-elle-un-piege/)" puis écrira "_A force de compromis pour faire rencontrer les bords opposés, les frustrations s’installent, nuisant à la qualité du travail et pénalisant l’avancée du groupe._", ce qui me semble là être un amalgame grossier entre consensus et compromis.
+Pourtant il me semble, et je peux me tromper car étant de l'intérieur, que [multibao.org](http://www.multibao.org/), boité à outil en ligne basée sur une technologie libre et rend utilisable des ressources usr la facilitation et collaboration se gére par une forme de consensus, peut-être pas encore explicité. 
+
+Jean-Philippe Poupard s'interroge, dans un blog lilé à la facilitation, sur "[La recherche du consensus est-elle un piège ?](http://www.leblogdelafacilitation.com/la-recherche-du-consensus-est-elle-un-piege/)" puis écrira "_A force de compromis pour faire rencontrer les bords opposés, les frustrations s’installent, nuisant à la qualité du travail et pénalisant l’avancée du groupe._", ce qui me semble là être un amalgame grossier entre consensus et compromis.
 Ce mot est composé des préfixe con- (« ensemble ») et pro- (« pour ») et de mettre. Il est, pour le mot, dérivé du latin compromissum (sens identique), dérivé du verbe compromittere (« promettre en même temps »), se promettre ensemble en chose pas encore advenue. 
 
-Pour consensus, de consens (XVIe siècle), lui-même du latin consensus (« accord, adhésion»), de consentire (« ressentir ensemble, consentir »). Comme evoqué en début d'article, consentio (« consentement ») est le passé simple de consensus. Serait-ce alors un préalable à un consensus, telle un acte de pépaparation à un présent choix ?
+Pour consensus, de consens (XVIe siècle), lui-même du latin consensus (« accord, adhésion»), de consentire (« ressentir ensemble, consentir »). Comme evoqué en début d'article, consentio (« consentement ») est le passé simple de consensus. Serait-ce alors un préalable de consentir avant d'aller sur un consensus, telle un acte de pépaparation à un présent choix tangile ? 
 
 En réthorique le consentement est un terme "vieilli" pour la concession, qui est un moyen d'accepter les arguments de l'adversaire, parfois de façon ironique, parfois pour les contredire.
 
 En droit français des obligations, le consentement est le fait de se prononcer en faveur d'un acte juridique, au sens large, et particulièrement, de toute convention, de tout contrat.
 
+J'ai parfois du mal avec l'approche et l'utilisation autour du consentement...
+
 **9 octobre 2017, France** :
 
 Dans le Val d’Oise, un homme de 28 ans devait être jugé fin septembre pour « atteinte sexuelle » sur une mineure de 11 ans. Le parquet n’a pas retenu le qualificatif de viol, estimant que la fillette n'avait pas exprimé son non-consentement, alors qu’une plainte pour viol avait bien été déposée.
 
-La peer to peer Foudation s'intéroge également sur une opposition "[Consent vs. Consensus](https://wiki.p2pfoundation.net/Consent_vs._Consensus)". Un copié-collé de texte qui enferme le consensus dans une approche néo-anarchiste et le consetement dans une approche sociocratique.
+La peer to peer Foudation s'intéroge également sur une opposition "[Consent vs. Consensus](https://wiki.p2pfoundation.net/Consent_vs._Consensus)". Un copié-collé de texte qui enferme le consensus dans une approche néo-anarchiste et le consetement dans une approche sociocratique. Effectivement lorsque je prends comme base de travail sur le consensus le hackerspace de Noisebridge dans le précedent article, je tombe dans le piège de la facilité d'assimilation à une mouvance. D'autre part, la sociocratie, dans la mode se fait aujourd'hui, reprend très souvent le terme de consentement, peut-être par simplisme également.
 
-Je trouve étrange que, si les deux régards de ces individus se portent sur une opposition franche, en plus de cette opposition il n'y ait aucun effort d'analyse sur le rôle du dissensus. 
+Je trouve étrange que, si les deux régards de ces individus se portent sur une opposition franche, en plus de cette opposition il n'y ait aucun effort d'analyse sur le rôle du dissensus. Il y a là matière à de nouvelles réflexions.
+
+## Mots pour la suite
+
+Il s'agit à travers ces lignes d'exposer des ressources, des psites et des réflexions. Il n'est donc pas encore venu le temps de la conclusion, même partielle.
+
+C'est ici une invitation à la réflexion, mais aussi et surtout à l'expérimentation colletcive, qu'il faut lire, par exemple en ouvrant une [ISSUE](https://github.com/XavCC/xavcc.github.io/issues) titrée OCNI #2 et y rédigeant vos intérrogations et commentaires. 
+
+Je pourrais ici laisser croire par inadvertance qu'il y aurait des traces de Consensus un peu partout dans les pratiques collaboratives ou non-collaboratives, dans l'histoire, dans la théorique ou dans les fables. Je partagerai bien plus qu'il n'y a que peu ou pas de réflexion, d'expérimentation et d'analyse sur le consensus. J'écrirais tout fort que ce terme est mal compris en paraphrasant "ce qui n'est pas nommé n'existe pas et ce qui est mal nommé est aliéné".
 
 ## Notes supplémentaires et ressources
 
-EN plus des liens dissiminés dans cet article, voici quelques notes et ressources explorées sur le sujet traités.
+En plus des liens dissiminés dans cet article, voici quelques notes et ressources explorées sur le sujet traités.
 
 + [Travaux et notes communes](https://paper.dropbox.com/doc/Experience-de-consensus-w1mZt8YdVcz9RM24FBCo9)
 + [Consensus Decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making), Wikipedia
