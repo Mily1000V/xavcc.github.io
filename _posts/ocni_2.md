@@ -22,7 +22,7 @@ Nous avions d'ailleurs travaillé cette articulation avec le Biome HackLab et l'
 
 Consensus est un mot latin qui signifie « accord », au sens de « sentiment commun »
 L'opinion collective n'est pas un consensus, mais une opinion reçue, un alignement sur une orthodoxie.
-"Concentio", consentir, est en latin le passé simple de "Consensus". Si les mots expriment souvent des concepts, il y a ici une sémantique à ne pas négliger et donc à appronfondir.
+"Consentio", consentir, est en latin le passé simple de "Consensus". Si les mots expriment souvent des concepts, il y a ici une sémantique à ne pas négliger et donc à appronfondir.
 
 La recherche du consensus permet d'éviter que la majorité impose ses décisions à la minorité, puisque le veto permet à chacun de refuser une solution qui ne lui convient vraiment pas.
 
@@ -38,7 +38,9 @@ La recherche du consensus permet d'éviter que la majorité impose ses décision
 La fable de La Fontaine,« Le Meunier, son Fils et l'Âne », cherche à démonter que les décisions peuvent ne pas tenir longtemps du fait de l'inconséquence et de l'irrésolution personnelle du décideur.
 
 Cette fable a une longue généalogie. Elle est, par exemple dans Ésope, au moins dans le recueil de Camérarius. 
-Elle avait cours au moyen âge. Voyez dans les Latin stories, publiées par M. Wright, la fable CXLIV, de Sene et Asino. 
+Elle est dans le Comte Lucanor de l’Espagnol don Juan Manuel, avec une variante. Le meunier, par les diverses manières dont l’âne est mené ou monté, provoque à dessein les observations des passants. C’est une leçon qu’il veut donner à son fils, qui se laissait trop aller aux propos d’autrui et ne savait prendre une décision par lui-même.
+
+Elle est dans les facéties de Pogge. Elle est la dernière du recueil latin de Faërno 
 
 Le meunier monte en premier sur l’âne, puis son fils le suit à pied ; comme "on" y trouve à redire, il fait ensuite monter son fils sur l’âne et va à pied. Puis, comme on se moque de ce jeune homme agile et vigoureux qui se fait porter par un âne, le fils descend de sa monture et ils cheminent tous deux derrière l’âne. "On" critique alors le soin qu’ils prennent de leur bête. Ils montent dessus tous deux. "On" leur crie qu’ils vont tuer le pauvre animal. Enfin, ils lient les pattes de l’âne et le portent entre eux comme un lustre.
 
@@ -75,6 +77,7 @@ Je trouve étrange que, si les deux régards de ces individus se portent sur une
 
 EN plus des liens dissiminés dans cet article, voici quelques notes et ressources explorées sur le sujet traités.
 
++ [Travaux et notes communes](https://paper.dropbox.com/doc/Experience-de-consensus-w1mZt8YdVcz9RM24FBCo9)
 + [Consensus Decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making), Wikipedia
 + [Éthique du dissensus : la complétude du deux au service du soin](http://www.theses.fr/2008PEST0253), Thèse en philosophie de Cristophe Pacific Sous la direction de Dominique Folscheid. 
 > Nous  devons,  dès lors, nous interroger sur cette  apparente  évidence  et  sur  c(nouveau ?) besoin de consensus : ce qu’il est, ce qu’il promet, ce qu’il assure et ce qu’il 
@@ -87,6 +90,7 @@ légitime  des  valeurs de  notre  société ?»  C’est  ici  que  se  déterm
 discussion et qu’une exploration  mérite  d’être  menée pour y décrypter les enjeux et le sens  des  conclusions. La prétention  humaine de traiter  les  apories contemporaines tout 
 en se préservant de décisions nocives n’est-elle pas utopique ?
 + Ésope, [table des fables](https://fr.wikisource.org/wiki/Fables_d%E2%80%99%C3%89sope)
-
++ [Le Comte Lucanor](https://fr.wikipedia.org/wiki/Le_Comte_Lucanor) 
++ [Les Facéties du Pogge et leur influence](http://www.persee.fr/doc/rhren_0181-6799_1977_num_7_1_1054)
 
 
