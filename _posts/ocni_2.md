@@ -17,8 +17,8 @@ Nous avions d'ailleurs travaillé cette articulation avec le Biome HackLab et l'
 
 **Postulat de départ pour gouvernance par consensus** : 
 
-- Les règles sont accessibles, documentées et appréhendables
-- Les parties en présence entretiennent un commun et vise à son amélioration continue
++ Les règles sont accessibles, documentées et appréhendables
++ Les parties en présence entretiennent un commun et vise à son amélioration continue
 
 > [Julien Lecaille](https://mamot.fr/@JulienLecaille) : "_la contribution aux communs peut prendre plusieurs formes : en temps, en argent, un investissement (quel qu'il soit) régulier et suivi, ou un une participation ponctuelle... De même, la contribution peut être perçue comme une activité annexe ou principale. Finalement : à quel moment et pour quel type de contribution devient-on "contributeur" ?_"
 
@@ -80,8 +80,12 @@ Pour Condorcet, il semble ne pas exister de système simple assurant cette cohé
 
 Si un système de consensus doit être conçu pour une gourverance, il aurait intérêt à ne pas renforcer les gripages de déroulement collectif comme ceux révélés dans ces paradoxe. Il aurait intérêt a expérimenter un focntionnement sans vote, avec une pértuelle remise en cause amélioration de ce processus.
 
+Il y a toujours un "Mais". Ici il serait un système absé sur le consensus qui cherche par systèmisme à prendre soi du système lui-même, délaissant ainsi les nécessités :
 
-
++ Permettre aux individus de prendre soin d'eux-mêmes et de prendre soins les uns des autres = **Risque individualiste**
++ Prendre en considération et alimenter,comme on jardine un paysage nourricier, des Communs = **Risque Communautariste**
++ Éviter que la majorité impose ses décisions à la minorité = **Risque Autoritarise**
++ Ne jamais éliminer ce qui n'apparait pas dansun instant présent utile = **Risque Utilitariste**
 
 > "_En cherchant l’unité, le consensus diabolise le conflit et cherche expressément à l’éliminer du fait de son chaos apparent. Le dissensus, lui, en mettant la parole en tension, assure le lien fécond du vivre ensemble._" Christophe Pacific
 
