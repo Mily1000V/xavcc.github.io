@@ -37,14 +37,18 @@ La recherche du consensus permet d'éviter que la majorité impose ses décision
 
 La fable de La Fontaine,« Le Meunier, son Fils et l'Âne », cherche à démonter que les décisions peuvent ne pas tenir longtemps du fait de l'inconséquence et de l'irrésolution personnelle du décideur.
 
-Cette fable a une longue généalogie. Elle est dans Ésope, au moins dans le recueil de Camérarius. Elle est dans les ouvrages arabes ou turcs qui dérivent du livre indien de Sendabad. et dans l’Historia septem supienlum, qui en vient également.
+Cette fable a une longue généalogie. Elle est, par exemple dans Ésope, au moins dans le recueil de Camérarius. 
+Elle avait cours au moyen âge. Voyez dans les Latin stories, publiées par M. Wright, la fable CXLIV, de Sene et Asino. 
 
-Elle avait cours au moyen âge. Voyez dans les Latin stories, publiées par M. Wright, la fable CXLIV, de Sene et Asino. Le meunier monte d’abord sur l’âne, et son fils le suit ; comme on y trouve à redire, il fait ensuite monter son fils sur l’âne et va à pied. Puis, comme on se moque de ce jeune homme agile et vigoureux qui se fait porter par un âne, le fils descend de sa monture et ils cheminent tous deux derrière l’âne. On critique alors le soin qu’ils prennent de leur bête. Ils montent dessus tous deux. On leur crie qu’ils vont tuer le pauvre animal. Enfin, ils lient les pattes de l’âne et le portent entre eux comme un lustre
+Le meunier monte en premier sur l’âne, puis son fils le suit à pied ; comme "on" y trouve à redire, il fait ensuite monter son fils sur l’âne et va à pied. Puis, comme on se moque de ce jeune homme agile et vigoureux qui se fait porter par un âne, le fils descend de sa monture et ils cheminent tous deux derrière l’âne. "On" critique alors le soin qu’ils prennent de leur bête. Ils montent dessus tous deux. "On" leur crie qu’ils vont tuer le pauvre animal. Enfin, ils lient les pattes de l’âne et le portent entre eux comme un lustre.
 
+_NDLR: le "on" est le pronom indéfini employé par La Fontaine dans le texte pour illustrer l' alignement sur une orthodoxie._
+
+Si un système de consensus doit être conçu pour une gourverance, il devra s'attacher au problème des décisions obsolescentes du fait de l'inconséquence et de l'irrésolution personnelle d'un individu unique mis en responsabilité de décisison. 
 
 #### Histoire de gouvernement Polonais
 
-Sur le plan historique, l'expérience de la Diète polonaise, a chambre basse du Parlement polonais, illustre jusqu'à la caricature l'état de paralysie auquel aboutit une représentation politique basée sur la règle trop exigeante de l'unanimité.
+Sur le plan historique, l'expérience de la Diète polonaise, a chambre basse du Parlement polonais, illustre jusqu'à la caricature l'état de paralysie auquel abgoutit une représentation politique basée sur la règle trop exigeante de l'unanimité.
 
 La Diète n'est réunie que sur l'invitation du souverain et pour lui donner son avis sur les mesures à prendre. Ses décisions devant être prises à l'unanimité, son fonctionnement concret conduit le plus souvent à la paralysie et à l'incapacité de prendre la moindre décision : après des débuts prometteurs au XVIe siècle, la « Liberté dorée » passera à la postérité comme une caricature désastreuse de la représentation politique. Il s'agissait d'une exception, caractérisée par une puissante aristocratie et par un roi faible, durant une période où l'absolutisme se développait dans la majorité des autres pays de l'Europe ― une exception, néanmoins, qui comportait des similitudes frappantes avec des conceptions contemporaines 3. Durant une période où la plupart des pays européens se dirigeaient vers la centralisation, la monarchie absolue sur fond de querelles religieuses et dynastiques, la République des Deux Nations se tournait vers la décentralisation, la confédération et la fédération, la démocratie, la tolérance religieuse et même le pacifisme.
 Dans sa forme extrême, la Liberté Dorée a été critiquée comme responsable des « guerres internes et des invasions, de la faiblesse nationale, de l'indécision et la pauvreté d'esprit », notamment par Peter Brock, John D. Stanley, Piotr Wróbel dans [Nation and History: Polish Historians from the Enlightenment to the Second World War](https://frama.link/hTxKR19H).
@@ -82,6 +86,7 @@ la   négociation ?  Ne s’exerce-t-il pas  « une  autorité à la fois instit
 légitime  des  valeurs de  notre  société ?»  C’est  ici  que  se  détermine l’éthique de la 
 discussion et qu’une exploration  mérite  d’être  menée pour y décrypter les enjeux et le sens  des  conclusions. La prétention  humaine de traiter  les  apories contemporaines tout 
 en se préservant de décisions nocives n’est-elle pas utopique ?
++ Ésope, [table des fables](https://fr.wikisource.org/wiki/Fables_d%E2%80%99%C3%89sope)
 
 
 
