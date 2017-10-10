@@ -7,6 +7,8 @@ categories:["hsociety"]
 
 Suite à un premier [texte de réflexion et recherche](https://xavcc.github.io/hsociety/2017/08/26/ocni.html) autour du consensus comme base de gouvernance un peu anarchique, puis une [MasterClass](https://www.youtube.com/watch?v=xOV4tzraCE0&feature=youtu.be&t=6m0s) sur les communautés à Lyon par Yann Heurtaux et enfin une proposition de débat sur consensus et consentement par Florence le Nuzlec, voici quelques apports à cette réflexion collective sur l'_OCNI_
 
+![](https://visualhunt.com/photos/l/5/day-64-march-4-2008-screaming-for-freedom.jpg "Screaming for Freedom by Ashley.adcox licene CC BY-NC-ND")
+
 ## Consensus
 
 Le consensus semble ne pouvoir fonctionner qu'entre contributeurs raisonnables qui tentent à travailler ensemble de bonne foi. Dans ce processus collabroatif ils s'attachent à  décrire de manière correcte et appropriée tous les points de vue pertinents sur un sujet proposé. C'est le principe de dialogue.
