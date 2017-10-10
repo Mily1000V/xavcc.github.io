@@ -5,15 +5,13 @@ date:
 categories:["hsociety"]
 ---
 
-
-
-Suite à un premier [texte de réflexion et recherche](https://xavcc.github.io/hsociety/2017/08/26/ocni.html) autour du consensus comme base de gouvernance un peu anarchique, puis une MasterClass sur les communautés à Lyon par Yann Heurtaux et enfin une proposition de débat sur consensus et consentement par Florence le Nuzlec, voici quelques apports à cette réflexion collective sur l'_OCNI_
+Suite à un premier [texte de réflexion et recherche](https://xavcc.github.io/hsociety/2017/08/26/ocni.html) autour du consensus comme base de gouvernance un peu anarchique, puis une [MasterClass](https://www.youtube.com/watch?v=xOV4tzraCE0&feature=youtu.be&t=6m0s) sur les communautés à Lyon par Yann Heurtaux et enfin une proposition de débat sur consensus et consentement par Florence le Nuzlec, voici quelques apports à cette réflexion collective sur l'_OCNI_
 
 ## Consensus
 
-Le consensus semble ne pouvoir fonctionner qu'entre contributeurs raisonnables qui essayent de travailler ensemble de bonne foi pour décrire de manière correcte et appropriée tous les points de vue pertinents sur un sujet
+Le consensus semble ne pouvoir fonctionner qu'entre contributeurs raisonnables qui tentent à travailler ensemble de bonne foi. Dans ce processus collabroatif ils s'attachent à  décrire de manière correcte et appropriée tous les points de vue pertinents sur un sujet proposé. C'est le principe de dialogue.
 
-Nous avions d'ailleurs travailler cette articulation avec le Biome HackLab et l'appui de nombreuses personnes dont Samuel Bosson, Arthur Masson Mathieu Brient pour la résumer ainsi :
+Nous avions d'ailleurs travaillé cette articulation avec le Biome HackLab et l'appui de nombreuses personnes dont Samuel Bosson, Arthur Masson Mathieu Brient pour la résumer ainsi :
 
 **Postulat de départ pour gouvernance par consensus** : 
 
@@ -24,6 +22,8 @@ Nous avions d'ailleurs travailler cette articulation avec le Biome HackLab et l'
 
 Consensus est un mot latin qui signifie « accord », au sens de « sentiment commun »
 L'opinion collective n'est pas un consensus, mais une opinion reçue, un alignement sur une orthodoxie.
+"Concentio", consentir, est en latin le passé simple de "Consensus". Si les mots expriment souvent des concepts, il y a ici une sémantique à ne pas négliger et donc à appronfondir.
+
 La recherche du consensus permet d'éviter que la majorité impose ses décisions à la minorité, puisque le veto permet à chacun de refuser une solution qui ne lui convient vraiment pas.
 
 > "Le consensus a pour finalité d’éliminer le conflit." Dr en philosophie Christophe Pacific
@@ -33,7 +33,16 @@ La recherche du consensus permet d'éviter que la majorité impose ses décision
 
 ### Retour littéraire, historique et théorique sur la gouvernance
 
-La fable de La Fontaine, (« Le Meunier, son Fils et l'Âne ») montre que les décisions peuvent ne pas tenir longtemps du fait de l'inconséquence et de l'irrésolution personnelle du décideur.
+#### Fable de la Fontaine
+
+La fable de La Fontaine,« Le Meunier, son Fils et l'Âne », cherche à démonter que les décisions peuvent ne pas tenir longtemps du fait de l'inconséquence et de l'irrésolution personnelle du décideur.
+
+Cette fable a une longue généalogie. Elle est dans Ésope, au moins dans le recueil de Camérarius. Elle est dans les ouvrages arabes ou turcs qui dérivent du livre indien de Sendabad. et dans l’Historia septem supienlum, qui en vient également.
+
+Elle avait cours au moyen âge. Voyez dans les Latin stories, publiées par M. Wright, la fable CXLIV, de Sene et Asino. Le meunier monte d’abord sur l’âne, et son fils le suit ; comme on y trouve à redire, il fait ensuite monter son fils sur l’âne et va à pied. Puis, comme on se moque de ce jeune homme agile et vigoureux qui se fait porter par un âne, le fils descend de sa monture et ils cheminent tous deux derrière l’âne. On critique alors le soin qu’ils prennent de leur bête. Ils montent dessus tous deux. On leur crie qu’ils vont tuer le pauvre animal. Enfin, ils lient les pattes de l’âne et le portent entre eux comme un lustre
+
+
+#### Histoire de gouvernement Polonais
 
 Sur le plan historique, l'expérience de la Diète polonaise, a chambre basse du Parlement polonais, illustre jusqu'à la caricature l'état de paralysie auquel aboutit une représentation politique basée sur la règle trop exigeante de l'unanimité.
 
