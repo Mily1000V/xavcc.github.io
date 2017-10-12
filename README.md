@@ -1,4 +1,4 @@
-# S'implqiuer
+# S'impliquer
 Pour contribuer à ce blog,contenu et amélioration technique voir [Backlog](https://github.com/XavCC/xavcc.github.io/projects)
 
 # Thème utilisé
