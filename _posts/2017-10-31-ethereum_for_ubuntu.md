@@ -1,6 +1,11 @@
-# Ethereum pour Ubuntu
+---
+layout: post
+title: "Blockchain et Ethereum dans ton ordinateur. Pour Commencer...il fut un premier pas pour tous"
+date: 2017-10-31
+categories: ["science"]
+---
 
-Il sagit de fournir un tutoriel simple et rapide pour installer et utiliser une blockchain Ethereum our un utilisateur d'ordinateur Ubuntu. Le tout en 5 petites étapes et, peut-être, en apprenant un truc ou deux.
+Il sagit de fournir un tutoriel simple et rapide pour installer et utiliser une blockchain Ethereum pour un utilisateur d'ordinateur Ubuntu. Le tout en 5 petites étapes et, peut-être, en apprenant un truc ou deux.
 
 Les coordonnées de votre serviteur pour un don quand vos aurez appris
 + adress geth : `38594fa632c0538f13caaaf83385b3adc5eb0379`
@@ -13,7 +18,7 @@ Dans un réseau informatique, un client est le logiciel qui envoie des demandes 
 
 Ici notre client est [Parity](https://parity.io/)
 
-1. Installation binaire en ligne de commande
+### 1. Installation binaire en ligne de commande
 
 ```
 $ bash <(curl https://get.parity.io -kL)
@@ -47,7 +52,7 @@ sudo apt-get install openssl libssl-dev libudev-dev
 
 Pour [Ethereum](https://fr.wikipedia.org/wiki/Ethereum), qui est un protocole d'échanges décentralisés permettant la création par les utilisateurs de contrats intelligents grâce à un langage Turing-complet. Ces contrats intelligents sont basés sur un protocole informatique permettant de vérifier ou de mettre en application un contrat mutuel, ils sont déployés et consultables publiquement dans la blockchain
 
-2. Geth 
+### 2. Geth 
 `geth`  est l'interface de ligne de commande pour un noeud ethereum complet implémenté dans Go. C'est le livrable principal de [Frontier Release](https://github.com/ethereum/go-ethereum/wiki/Frontier)
 
 
@@ -75,13 +80,13 @@ Vous pouvez mainteant commander ```geth``` et vous connecter au réseau.
 Vous pouvez apercevoir et vous renseigner sur les différentes options de commande avec ```geth --help```
 
 ## Mettre à jour l'ordinateur
-4. Update & Upgrade
+### 4. Update & Upgrade
 
 ```
 sudo apt-get udpate && sudo apt-get upgrade -y
 ```
 ## Configurer le client Parity
-5. Parity
+### 5. Parity
 
 Il prend en charge "l'instantané d'état" ce qui réduit considérablement les temps de synchronisation et l'élagage de la base de données, ce qui réduit donc les besoins en disponibilité d'esapce de disque. Les deux fonctionnalités sont activées par défaut sur les dernières versions de Parity. Simplement synchronisé en exécutant:
 
@@ -110,7 +115,7 @@ Parity peut être configuré en utilisant un fichier [TOML](https://github.com/t
 
 + Linux: `~/.local/share/io.parity.ethereum/config.toml`
 
-Pour tuliser un _chemin d'accès_, Path, personnalisé : 
+Pour utiliser un _chemin d'accès_, Path, personnalisé : 
 ```
 $ parity --config path/to/config.toml
 ```
@@ -121,7 +126,7 @@ cp /home/mon_espace_de_travail/Téléchargements/config.toml ~/.local/share/io.p
 ````
 Pour faire une copie d'un fichier depuis un répertoire vers un autre
 
-## Utiliser Parity
+### 6. Utiliser Parity
 
 Par défaut, lorsque vous exécutez simplement Parity, Parity Ethereum se connecte au réseau Ethereum public officiel.
 
