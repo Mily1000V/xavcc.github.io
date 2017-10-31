@@ -5,7 +5,7 @@ date: 2017-10-31
 categories: ["science"]
 ---
 
-Il sagit de fournir un tutoriel simple et rapide pour installer et utiliser une blockchain Ethereum pour un utilisateur d'ordinateur Ubuntu. Le tout en 5 petites étapes et, peut-être, en apprenant un truc ou deux.
+Il sagit de fournir un tutoriel simple et rapide pour installer et utiliser une blockchain Ethereum à un utilisateur d'ordinateur Ubuntu. Le tout en 5 petites étapes et, peut-être, en apprenant un truc ou deux.
 
 Les coordonnées de votre serviteur pour un don quand vos aurez appris
 + adress geth : `38594fa632c0538f13caaaf83385b3adc5eb0379`
