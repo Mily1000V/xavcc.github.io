@@ -120,7 +120,7 @@ Pour utiliser un _chemin d'accès_, Path, personnalisé :
 $ parity --config path/to/config.toml
 ```
 
-Ou télécharger le TOML depuis le [générateur de configuration](https://paritytech.github.io/parity-config-generator/) et dans le termilan effectuer:
+Ou télécharger le TOML depuis le [générateur de configuration](https://paritytech.github.io/parity-config-generator/) et dans le terminal effectuer:
 ```
 cp /home/mon_espace_de_travail/Téléchargements/config.toml ~/.local/share/io.parity.ethereum
 ````
