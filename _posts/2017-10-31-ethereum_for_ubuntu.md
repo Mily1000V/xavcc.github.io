@@ -144,10 +144,10 @@ Chaînes prédéfinies disponibles
 
 
 > Voilà vous êtes dans l'Ether...
-> La prochaine étape serade "miner"... dans le prochain article sur ce blog
+> La prochaine étape sera de "miner"... dans le prochain article sur ce blog
 
 
 ##### Voir également
 
 + [Qu'est ce que la blockchain](https://blockchainfrance.net/decouvrir-la-blockchain/c-est-quoi-la-blockchain/)
-+ Libre blanc sur a blockchain,  Lire l’étude (en anglais et PDF) : « [Blockchain & Beyond](https://blockchainfrance.net/2015/12/05/livre-blanc-cellabz/) »
++ Libre blanc sur la blockchain,  Lire l’étude (en anglais et PDF) : « [Blockchain & Beyond](https://blockchainfrance.net/2015/12/05/livre-blanc-cellabz/) »
