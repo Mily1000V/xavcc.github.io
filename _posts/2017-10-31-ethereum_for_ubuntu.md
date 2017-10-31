@@ -135,7 +135,7 @@ Afin d'exécuter une chaîne différente de celle de l'Ethereum public officiel,
 Chaînes prédéfinies disponibles
 
 + [mainnet](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/foundation.json) (par défaut) réseau principal Ethereum
-+ [kovan | testnet](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/kovan.json) le [réseau de test rapide Ethereum](https://github.com/kovan-testnet/config)
++ [kovan \| testnet](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/kovan.json) le [réseau de test rapide Ethereum](https://github.com/kovan-testnet/config)
 + [ropsten](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/ropsten.json) l'ancien réseau de test Ethereum
 + réseau classique [Ethereum Classic](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/classic.json)
 + [testnet Morden](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/morden.json) original classique-testnet et Testnet Ethereum Classic actuel
