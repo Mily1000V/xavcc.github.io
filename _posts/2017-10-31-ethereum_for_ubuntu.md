@@ -56,7 +56,7 @@ Pour [Ethereum](https://fr.wikipedia.org/wiki/Ethereum), qui est un protocole d'
 `geth`  est l'interface de ligne de commande pour un noeud ethereum complet implémenté dans Go. C'est le livrable principal de [Frontier Release](https://github.com/ethereum/go-ethereum/wiki/Frontier)
 
 
-En installant et en exécutant `get`, vous pouvez participer au réseau live de ethereum
+En installant et en exécutant `geth`, vous pouvez participer au réseau live de ethereum
 
 + miner  des vrais éthers
 + transférer des fonds entre les adresses
