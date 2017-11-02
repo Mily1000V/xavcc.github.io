@@ -56,7 +56,8 @@ Pour [Ethereum](https://fr.wikipedia.org/wiki/Ethereum), qui est un protocole d'
 `geth`  est l'interface de ligne de commande pour un noeud ethereum complet implémenté dans Go. C'est le livrable principal de [Frontier Release](https://github.com/ethereum/go-ethereum/wiki/Frontier)
 
 
-En installant et en exécutant `geth`, vous pourrez participer au réseau live de ethereum pour :
+
+En installant et en exécutant `geth`, vous pouvez participer au réseau live de ethereum
 
 + miner des vrais éthers
 + transférer des fonds entre les adresses
@@ -136,7 +137,7 @@ Afin d'exécuter une chaîne différente de celle de l'Ethereum public officiel,
 **Chaînes prédéfinies disponibles :**
 
 + [mainnet](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/foundation.json) (par défaut) réseau principal Ethereum
-+ [kovan | testnet](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/kovan.json) le [réseau de test rapide Ethereum](https://github.com/kovan-testnet/config)
++ [kovan \| testnet](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/kovan.json) le [réseau de test rapide Ethereum](https://github.com/kovan-testnet/config)
 + [ropsten](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/ropsten.json) l'ancien réseau de test Ethereum
 + réseau classique [Ethereum Classic](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/classic.json)
 + [testnet Morden](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/morden.json) original classique-testnet et Testnet Ethereum Classic actuel
@@ -151,4 +152,4 @@ Afin d'exécuter une chaîne différente de celle de l'Ethereum public officiel,
 ##### Voir également
 
 + [Qu'est ce que la blockchain](https://blockchainfrance.net/decouvrir-la-blockchain/c-est-quoi-la-blockchain/)
-+ Libre blanc sur a blockchain,  Lire l’étude (en anglais et PDF) : « [Blockchain & Beyond](https://blockchainfrance.net/2015/12/05/livre-blanc-cellabz/) »
++ Libre blanc sur la blockchain,  Lire l’étude (en anglais et PDF) : « [Blockchain & Beyond](https://blockchainfrance.net/2015/12/05/livre-blanc-cellabz/) »
