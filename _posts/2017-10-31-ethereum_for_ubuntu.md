@@ -57,7 +57,7 @@ Pour [Ethereum](https://fr.wikipedia.org/wiki/Ethereum), qui est un protocole d'
 
 
 
-En installant et en exécutant `geth`, vous pouvez participer au réseau live de ethereum
+En installant et en exécutant `geth`, vous pouvez participer au réseau live de ethereum pour :
 
 + miner des vrais éthers
 + transférer des fonds entre les adresses
