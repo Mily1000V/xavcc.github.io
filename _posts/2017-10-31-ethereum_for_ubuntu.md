@@ -153,3 +153,6 @@ Afin d'exécuter une chaîne différente de celle de l'Ethereum public officiel,
 
 + [Qu'est ce que la blockchain](https://blockchainfrance.net/decouvrir-la-blockchain/c-est-quoi-la-blockchain/)
 + Libre blanc sur la blockchain,  Lire l’étude (en anglais et PDF) : « [Blockchain & Beyond](https://blockchainfrance.net/2015/12/05/livre-blanc-cellabz/) »
+
+##### Remerciements 
++ [Rom1detroyes](https://github.com/Rom1deTroyes) pour avoir apporté des corrections à cet article via github
