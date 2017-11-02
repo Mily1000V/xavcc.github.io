@@ -56,9 +56,9 @@ Pour [Ethereum](https://fr.wikipedia.org/wiki/Ethereum), qui est un protocole d'
 `geth`  est l'interface de ligne de commande pour un noeud ethereum complet implémenté dans Go. C'est le livrable principal de [Frontier Release](https://github.com/ethereum/go-ethereum/wiki/Frontier)
 
 
-En installant et en exécutant `get`, vous pouvez participer au réseau live de ethereum
+En installant et en exécutant `geth`, vous pourrez participer au réseau live de ethereum pour :
 
-+ miner  des vrais éthers
++ miner des vrais éthers
 + transférer des fonds entre les adresses
 + créer des contrats et envoyer des transactions
 + explorer l'historique des blocs
@@ -96,12 +96,13 @@ $ parity
 
 _Synchronisation Warp_
 
-Le snapshoting d'état, ou warp-sync, permet une "synchronisation" extrêmement rapide qui saute presque tout le traitement de bloc, en injectant simplement les données appropriées directement dans la base de données. Pour utiliser une synchronisation de cliché, vous devez d'abord télécharger un cliché.
+Le snapshoting d'état, ou warp-sync, permet une "synchronisation" extrêmement rapide qui saute presque tout le traitement de bloc, en injectant simplement les données appropriées directement dans la base de données. Pour utiliser une synchronisation de cliché, vous devez d'abord télécharger un "snapshot".
 
 ```
 $ parity --warp
 ```
-
+Lorsque vous utilisez Parity 1.6 ou 1.7, `--warp` ne fait rien car il est activé par défaut
+ 
 Parity peut être configuré à l'aide des options CLI, Command-line interface, ou d'un fichier de configuration. Si les indicateurs CLI et le fichier de configuration sont en désaccord sur un paramètre, l'interface CLI est prioritaire.
 
 Vous pouvez lister toutes les options CLI en exécutant `$ parity --help`. 
@@ -120,7 +121,7 @@ Pour utiliser un _chemin d'accès_, Path, personnalisé :
 $ parity --config path/to/config.toml
 ```
 
-Ou télécharger le TOML depuis le [générateur de configuration](https://paritytech.github.io/parity-config-generator/) et dans le termilan effectuer:
+Ou télécharger le TOML depuis le [générateur de configuration](https://paritytech.github.io/parity-config-generator/) et dans le terminal effectuer:
 ```
 cp /home/mon_espace_de_travail/Téléchargements/config.toml ~/.local/share/io.parity.ethereum
 ````
@@ -132,7 +133,7 @@ Par défaut, lorsque vous exécutez simplement Parity, Parity Ethereum se connec
 
 Afin d'exécuter une chaîne différente de celle de l'Ethereum public officiel, Parity doit être exécuté avec l'option `--chain` ou avec un fichier de configuration spécifiant `chain = "path"` sous `[parity]`. Il y a quelques préréglages nommés qui peuvent être sélectionnés ou un fichier de spécifications JSON personnalisé peut être fourni.
 
-Chaînes prédéfinies disponibles
+**Chaînes prédéfinies disponibles :**
 
 + [mainnet](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/foundation.json) (par défaut) réseau principal Ethereum
 + [kovan | testnet](https://github.com/paritytech/parity/blob/master/ethcore/res/ethereum/kovan.json) le [réseau de test rapide Ethereum](https://github.com/kovan-testnet/config)
@@ -144,7 +145,7 @@ Chaînes prédéfinies disponibles
 
 
 > Voilà vous êtes dans l'Ether...
-> La prochaine étape serade "miner"... dans le prochain article sur ce blog
+> La prochaine étape sera de "miner"... dans le prochain article sur ce blog
 
 
 ##### Voir également
