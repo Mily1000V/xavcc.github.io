@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Blockchain et Ethereum dans ton ordinateur. Pour Commencer...il fut un premier pas pour tous"
+title: "Blockchain et Ethereum dans ton ordinateur. Pour Commencer...il faut un premier pas pour tous"
 date: 2017-10-31
 categories: ["science"]
 ---
 
-Il sagit de fournir un tutoriel simple et rapide pour installer et utiliser une blockchain Ethereum à un utilisateur d'ordinateur Ubuntu. Le tout en 6 petites étapes et, peut-être, en apprenant un truc ou deux.
+Il s'agit de fournir un tutoriel simple et rapide pour installer et utiliser une blockchain Ethereum pour un utilisateur d'ordinateur Ubuntu. Le tout en 6 petites étapes et, peut-être, en apprenant un truc ou deux.
 
-Les coordonnées de votre serviteur pour un don quand vos aurez appris
+Les coordonnées de votre serviteur pour un don quand vous aurez appris
 + adress geth : `38594fa632c0538f13caaaf83385b3adc5eb0379`
 + Public node URL Parity: `enode://355c26ef18e0302e776edc9c5e6371acdd8c00953fdf1898bc48537e3e4ab9b875ba7da1738f39dbd213837b21efcebbc57e3e3280f69ae8032f0ce94d052725@192.168.1.17:30303`
 
@@ -50,16 +50,16 @@ sudo apt-get install openssl libssl-dev libudev-dev
 
 ## Le logiciel pour la crypto-monnaie
 
-Pour [Ethereum](https://fr.wikipedia.org/wiki/Ethereum), qui est un protocole d'échanges décentralisés permettant la création par les utilisateurs de contrats intelligents grâce à un langage Turing-complet. Ces contrats intelligents sont basés sur un protocole informatique permettant de vérifier ou de mettre en application un contrat mutuel, ils sont déployés et consultables publiquement dans la blockchain
+[Ethereum](https://fr.wikipedia.org/wiki/Ethereum) est un protocole d'échange décentralisé permettant la création par les utilisateurs de contrats intelligents grâce à un langage Turing-complet. Ces contrats intelligents sont basés sur un protocole informatique permettant de vérifier ou de mettre en application un contrat mutuel. Ils sont déployés et consultables publiquement dans la blockchain.
 
 ### 2. Geth 
-`geth`  est l'interface de ligne de commande pour un noeud ethereum complet implémenté dans Go. C'est le livrable principal de [Frontier Release](https://github.com/ethereum/go-ethereum/wiki/Frontier)
+`geth`  est l'interface de ligne de commande pour un noeud Ethereum complet implémenté en Go. C'est le livrable principal de [Frontier Release](https://github.com/ethereum/go-ethereum/wiki/Frontier)
 
 
 
-En installant et en exécutant `geth`, vous pouvez participer au réseau live de ethereum pour :
+En installant et en exécutant `geth`, vous pouvez participer au réseau live d'Ethereum pour :
 
-+ miner des vrais éthers
++ miner de vrais éthers
 + transférer des fonds entre les adresses
 + créer des contrats et envoyer des transactions
 + explorer l'historique des blocs
@@ -76,7 +76,7 @@ sudo apt-get install ethereum
 
 Après installation, lancer ```geth account new``` pour créer votre nouveau noeud.
 
-Vous pouvez mainteant commander ```geth``` et vous connecter au réseau.
+Vous pouvez maintenant commander ```geth``` et vous connecter au réseau.
 
 Vous pouvez apercevoir et vous renseigner sur les différentes options de commande avec ```geth --help```
 
@@ -89,7 +89,7 @@ sudo apt-get udpate && sudo apt-get upgrade -y
 ## Configurer le client Parity
 ### 5. Parity
 
-Il prend en charge "l'instantané d'état" ce qui réduit considérablement les temps de synchronisation et l'élagage de la base de données, ce qui réduit donc les besoins en disponibilité d'esapce de disque. Les deux fonctionnalités sont activées par défaut sur les dernières versions de Parity. Simplement synchronisé en exécutant:
+Il prend en charge "l'instantané d'état", ce qui réduit considérablement le temps de synchronisation et l'élagage de la base de données, ce qui réduit donc les besoins en disponibilité d'espace disque. Les deux fonctionnalités sont activées par défaut sur les dernières versions de Parity. Synchronisez en exécutant simplement :
 
 ```
 $ parity
@@ -107,13 +107,13 @@ Lorsque vous utilisez Parity 1.6 ou 1.7, `--warp` ne fait rien car il est activ�
 Parity peut être configuré à l'aide des options CLI, Command-line interface, ou d'un fichier de configuration. Si les indicateurs CLI et le fichier de configuration sont en désaccord sur un paramètre, l'interface CLI est prioritaire.
 
 Vous pouvez lister toutes les options CLI en exécutant `$ parity --help`. 
-Chaque option CLI correspond à un paramètre dans le fichier TOML, par exemple `--mode-timeout 500` peut être défini en créant un fichier de configuration:
+Chaque option CLI correspond à un paramètre dans le fichier TOML, par exemple `--mode-timeout 500` peut être défini en créant un fichier de configuration :
 
 ```
 [parity]
 mode_timeout = 500
 ```
-Parity peut être configuré en utilisant un fichier [TOML](https://github.com/toml-lang/toml). Le fichier peut être généré en utilisant le [générateur de configuration](https://paritytech.github.io/parity-config-generator/) de Parity. Pour démarrer la parité avec un fichier de configuration, le fichier doit se trouver dans:
+Parity peut être configuré en utilisant un fichier [TOML](https://github.com/toml-lang/toml). Le fichier peut être généré en utilisant le [générateur de configuration](https://paritytech.github.io/parity-config-generator/) de Parity. Pour démarrer Parity avec un fichier de configuration, le fichier doit se trouver dans :
 
 + Linux: `~/.local/share/io.parity.ethereum/config.toml`
 
@@ -122,17 +122,17 @@ Pour utiliser un _chemin d'accès_, Path, personnalisé :
 $ parity --config path/to/config.toml
 ```
 
-Ou télécharger le TOML depuis le [générateur de configuration](https://paritytech.github.io/parity-config-generator/) et dans le terminal effectuer:
+Ou télécharger le TOML depuis le [générateur de configuration](https://paritytech.github.io/parity-config-generator/) et sasir dans le terminal :
 ```
 cp /home/mon_espace_de_travail/Téléchargements/config.toml ~/.local/share/io.parity.ethereum
-````
-Pour faire une copie d'un fichier depuis un répertoire vers un autre
+```
+Pour faire une copie d'un fichier depuis un répertoire vers un autre.
 
 ### 6. Utiliser Parity
 
 Par défaut, lorsque vous exécutez simplement Parity, Parity Ethereum se connecte au réseau Ethereum public officiel.
 
-Afin d'exécuter une chaîne différente de celle de l'Ethereum public officiel, Parity doit être exécuté avec l'option `--chain` ou avec un fichier de configuration spécifiant `chain = "path"` sous `[parity]`. Il y a quelques préréglages nommés qui peuvent être sélectionnés ou un fichier de spécifications JSON personnalisé peut être fourni.
+Afin d'exécuter une chaîne différente de celle de l'Ethereum public officiel, Parity doit être exécuté avec l'option `--chain` ou avec un fichier de configuration spécifiant `chain = "path"` sous `[parity]`. Il y a quelques préréglages nommés qui peuvent être sélectionnés ou un fichier de configuration JSON personnalisé peut être fourni.
 
 **Chaînes prédéfinies disponibles :**
 
@@ -151,8 +151,11 @@ Afin d'exécuter une chaîne différente de celle de l'Ethereum public officiel,
 
 ##### Voir également
 
-+ [Qu'est ce que la blockchain](https://blockchainfrance.net/decouvrir-la-blockchain/c-est-quoi-la-blockchain/)
-+ Libre blanc sur la blockchain,  Lire l’étude (en anglais et PDF) : « [Blockchain & Beyond](https://blockchainfrance.net/2015/12/05/livre-blanc-cellabz/) »
++ [Qu'est-ce que la blockchain](https://blockchainfrance.net/decouvrir-la-blockchain/c-est-quoi-la-blockchain/)
++ Livre blanc sur la blockchain,  Lire l’étude (en anglais et PDF) : « [Blockchain & Beyond](https://blockchainfrance.net/2015/12/05/livre-blanc-cellabz/) »
 
 ##### Remerciements 
+
+Pour les contrinutions et corrections à cet article
 + [Rom1detroyes](https://github.com/Rom1deTroyes) pour avoir apporté des corrections à cet article via github
++ [François Dupayrat](https://github.com/FrancoisDupayrat)
