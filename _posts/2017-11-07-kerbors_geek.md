@@ -1,13 +1,20 @@
-###### Tags: `IndieCamp` `Kerbors` `atelier geek` `Elm` `JavaScript`
+---
+layout: post
+title: "IndieCamp Kerbors: Atelier Geek - Session #2"
+date: 2017-11-07
+categories: ["science"]
+---
 
-# [[IndieCamp Kerbors](https://frama.link/indiecamp-kerbors-2017)] Atelier Geek - Session #2
+###### Tags: `IndieCamp` `Kerbors` `atelier geek` `Elm` `JavaScript`
 
 * [Atelier #0](https://hackmd.io/s/rJw31KgDb), sur les commandes d'un terminal pour un ordianteur sous Linux
 * [Atelier #1](https://hackmd.io/s/rJDXkRHDW), sur le langage markdown utile àla documentation de projet
 * [Atelier #2](https://hackmd.io/s/SyHcRZPPb), sur les langage de programmation JavaScript et Elm
 * [Atelier #3](https://hackmd.io/s/BkvQpmmY-#) apprendre JavaScript en MobProgramming
 
-Ce PAD décrit un atelier d'initiation aux **langages JavaScript et ELM** réalisé sur l'indiecamp à Kerbors.
+Ce billet décrit un atelier d'initiation aux **langages JavaScript et ELM** réalisé sur l'indiecamp à Kerbors 2017.
+
+![](https://d26wx9sgnlbtbs.cloudfront.net/p/57ae1e31d1993d0087bf6203/57b033587476bb0087375d94/57b034d8eaa9663e518cbf00/large-IMG_931020160814-15953-1kf8v5h.JPG?1471165657 "credit photo Aurélien Marty")
 
 Ce document est mis à disposition par tou.te.s les contributeurs et contributrices de l'Indiecamp Kerbors 2017, selon les termes de la [licence Creative Commons CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
