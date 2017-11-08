@@ -22,7 +22,7 @@ Ce document est mis à disposition par tou.te.s les contributeurs et contributri
 
 ## JavaScript
 
-Session co-organisée le 7 Août à Kerbors et animée par Stépnahe Langlois. Avec une méthode "Mob Programming" (Voir [Doing with Mob, learning by Mob - eng / fr](https://storify.com/XavierCoadic/doing-with-mob-learning-bu-mob))
+Session co-organisée le 7 Août 2017 à Kerbors et animée par Stépnahe Langlois. Avec une méthode "Mob Programming" (Voir [Doing with Mob, learning by Mob - eng / fr](https://storify.com/XavierCoadic/doing-with-mob-learning-bu-mob))
 
 Ouvrir un `index.html` puis un serveur local.
 
