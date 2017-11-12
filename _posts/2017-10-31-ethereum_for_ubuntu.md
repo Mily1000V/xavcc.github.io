@@ -156,6 +156,6 @@ Afin d'exécuter une chaîne différente de celle de l'Ethereum public officiel,
 
 ##### Remerciements 
 
-Pour les contrinutions et corrections à cet article
-+ [Rom1detroyes](https://github.com/Rom1deTroyes) pour avoir apporté des corrections à cet article via github
+Pour les contributions et corrections à cet article
++ [Rom1detroyes](https://github.com/Rom1deTroyes) pour avoir apporté des corrections à cet article via Github
 + [François Dupayrat](https://github.com/FrancoisDupayrat)
