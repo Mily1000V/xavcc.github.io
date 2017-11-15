@@ -12,7 +12,7 @@ categories: ["science"]
 * [Atelier #2](https://hackmd.io/s/SyHcRZPPb), sur les langage de programmation JavaScript et Elm
 * [Atelier #3](https://hackmd.io/s/BkvQpmmY-#) apprendre JavaScript en MobProgramming
 
-Ce billet décrit un atelier d'initiation aux **langages JavaScript et ELM** réalisé sur l'indiecamp à Kerbors 2017.
+Ce billet décrit un atelier d'initiation aux **langages JavaScript et ELM** réalisé sur l'Indiecamp à Kerbors 2017.
 
 ![](https://d26wx9sgnlbtbs.cloudfront.net/p/57ae1e31d1993d0087bf6203/57b033587476bb0087375d94/57b034d8eaa9663e518cbf00/large-IMG_931020160814-15953-1kf8v5h.JPG?1471165657 "credit photo Aurélien Marty")
 
@@ -22,104 +22,104 @@ Ce document est mis à disposition par tou.te.s les contributeurs et contributri
 
 ## JavaScript
 
-Session co-organisée le 7 Août 2017 à Kerbors et animée par Stépnahe Langlois. Avec une méthode "Mob Programming" (Voir [Doing with Mob, learning by Mob - eng / fr](https://storify.com/XavierCoadic/doing-with-mob-learning-bu-mob))
+Session co-organisée le 7 Août 2017 à Kerbors et animée par Stéphane Langlois. Avec une méthode "Mob Programming" (Voir [Doing with Mob, learning by Mob - eng / fr](https://storify.com/XavierCoadic/doing-with-mob-learning-bu-mob))
 
 Ouvrir un `index.html` puis un serveur local.
 
 ```
- <title>Kerbors JS</title>
- <meta charset=utf-8>
- <h1 class=town-title></h1>
+<title>Kerbors JS</title>
+<meta charset=utf-8>
+<h1 class=town-title></h1>
 <script>
   const h1 = document.querySelector('h1.town-title')
 </script>
 ```
 
-Quand tu lui donnes un mot en minuscule elle le rend en majuscule.
+Quand tu lui donnes un mot en minuscule, la page l'affiche en majuscule.
 
 
 ```
- <title>Kerbors JS</tilte>
- <meta charset=utf-8>
- <h1 class=town-title></h1>
+<title>Kerbors JS</tilte>
+<meta charset=utf-8>
+<h1 class=town-title></h1>
 <script>
-   const tonws = ['Paris', 'Barcelone', 'Nantes', 'Bordeaux', 'Toulouse']
-   function toMaj = str =>str.toUpperCase()
+  const tonws = ['Paris', 'Barcelone', 'Nantes', 'Bordeaux', 'Toulouse']
+  function toMaj = str => str.toUpperCase()
 </script>
 ```
 
-Les paranthèses ont le role d'invocation de la fonction. 
+Les parenthèses ont le role d'invocation de la fonction. 
 
 :::info
 + Se renseigner sur l'inférence en programmation fonctionnelle : Defi [Inférence](https://fr.wikipedia.org/wiki/Inf%C3%A9rence), [L'inférence de types](https://fr.wikipedia.org/wiki/Inf%C3%A9rence_de_types) est un mécanisme qui permet à un compilateur ou un interpréteur de rechercher automatiquement les types associés à des expressions, sans qu'ils soient indiqués explicitement dans le code source.
-+ Tips JS: ne pas utiliser 'var' mais utliser 'let'
++ Tips JS : ne pas utiliser `var` mais utliser `let`
 :::
 
-Ou encore pour construire une liste html de villes en utilisant map pour vouloir chaque ville avec du zerofonction.
+Ou encore pour construire une liste html de villes en utilisant `map` pour avoir chaque ville sans utiliser de fonction.
 
 ```
- <title>Kerbors JS</tilte>
- <meta charset=utf-8>
- <h1 class=town-title></h1>
+<title>Kerbors JS</tilte>
+<meta charset=utf-8>
+<h1 class=town-title></h1>
 <script>
-   const tonws = ['Paris', 'Barcelone', 'Nantes', 'Bordeaux', 'Toulouse']
-   tonws.map(town => return toUpperCase())
+  const tonws = ['Paris', 'Barcelone', 'Nantes', 'Bordeaux', 'Toulouse']
+  tonws.map(town => return toUpperCase())
 </script>
 ```
 
 Pour aller plus loin avec les fonctions
 
 ```
- <title>Kerbors JS</tilte>
- <meta charset=utf-8>
- <h1 class=town-title></h1>
+<title>Kerbors JS</tilte>
+<meta charset=utf-8>
+<h1 class=town-title></h1>
 <script>
-   const tonws = ['Paris', 'Barcelone', 'Nantes', 'Bordeaux', 'Toulouse']
-   tonws.map(town => {return toUpperCase()}
+  const tonws = ['Paris', 'Barcelone', 'Nantes', 'Bordeaux', 'Toulouse']
+  tonws.map(town => {return toUpperCase()}
 </script>
 ```
 
 Utiliser `ul>li*5` pour faire une nodelist
 
 ```
- <title>Kerbors JS</tilte>
- <meta charset=utf-8>
- <h1 class=town-title></h1>
- <ul>
- 	<li>Paris</li>
- 	<li>Barcelone</li>
- 	<li>Nantes</li>
- 	<li>Bordeaux</li>
- 	<li>Rennes</li>
- </ul>
+<title>Kerbors JS</tilte>
+<meta charset=utf-8>
+<h1 class=town-title></h1>
+<ul>
+	<li>Paris</li>
+	<li>Barcelone</li>
+	<li>Nantes</li>
+	<li>Bordeaux</li>
+	<li>Rennes</li>
+</ul>
 <script>
-   const tonws = ['Paris', 'Barcelone', 'Nantes', 'Bordeaux', 'Toulouse']
+  const tonws = ['Paris', 'Barcelone', 'Nantes', 'Bordeaux', 'Toulouse']
 </script>  
 ```
 Pour aller plus loin
 
 ```
- <title>Kerbors JS</tilte>
- <meta charset=utf-8>
- <h1 class=town-title></h1>
+<title>Kerbors JS</tilte>
+<meta charset=utf-8>
+<h1 class=town-title></h1>
 <script>
-   const tonws = ['Paris', 'Barcelone', 'Nantes', 'Bordeaux', 'Toulouse']
-   const ulTonwns = document.querySelector('ul.towns')
-   towns.forEach(tonw => {
-   	console.log(ulTonwns)
-   	ulTonwns.innerHTML += '<li>${towns}<li>'
-   })
+  const tonws = ['Paris', 'Barcelone', 'Nantes', 'Bordeaux', 'Toulouse']
+  const ulTonwns = document.querySelector('ul.towns')
+  towns.forEach(tonw => {
+  	console.log(ulTonwns)
+  	ulTonwns.innerHTML += '<li>${towns}<li>'
+  })
 </script>
 ```
 
-[Voir](github.com/oncletom/nodebook) pour un livre numérique à plusieurs mains sur JavaScprit. Node.js permet d'avoir le même langage coté serveur et coté client, "ce qui peut être très utile pour du jeu vidéo" relève Arthur Masson
+[Voir](github.com/oncletom/nodebook) pour un livre numérique à plusieurs mains sur JavaScript. Node.js permet d'avoir le même langage côté serveur et côté client, "ce qui peut être très utile pour du jeu vidéo" relève Arthur Masson
 
 ##  ELM
-Session co-organisée le 7 août à Kerbors et animée par Stépnahe Langlois. 
+Session co-organisée le 7 août à Kerbors et animée par Stéphane Langlois. 
 
-ELM est un langage fonctionnel avec une capacité d'inferrence. Ce n'est pas un framework mais un langage qui embarque le 'beiginnerProgram'. Site de référence : elm-lang.org (avec un bac à sable pour faire un 'hello world').
+ELM est un langage fonctionnel avec une capacité d'inférence. Ce n'est pas un framework mais un langage qui embarque le 'beginnerProgram'. Site de référence : elm-lang.org (avec un bac à sable pour faire un 'hello world').
 
-Pour installer ELM https://guide.elm-lang.org/install.html.
+Pour installer ELM : https://guide.elm-lang.org/install.html.
 
 **Avec Linux**
 
@@ -180,7 +180,7 @@ update msg model =
 
 > NB : le début de la programmation fonctionnelle est le pattern matching. Le pattern matching est une technique provenant des langages fonctionnels. D'après sa définition, elle a pour but de valider la présence de patterns dans une séquence. Une séquence, dans le monde fonctionnel, est représentée par des données en entrée. Dans le monde objet, la séquence est une instance d'une classe
 
-Mainteant, se créer un répertoire 'elm-kerbors' Puis lancer elm-repl 0.18.0 (github.com/elm-long/elm-repl) pour utiliser et vérifier dans une fonction un typage fort implicite capable d'inferrence. 
+Maintenant, se créer un répertoire 'elm-kerbors' Puis lancer elm-repl 0.18.0 (github.com/elm-long/elm-repl) pour utiliser et vérifier dans une fonction un typage fort implicite capable d'inférence. 
 
 ```
 add num + 2
@@ -200,8 +200,8 @@ Dans le répertoire `elm-kerbors`, faire un document index.htlm
 
 <div class=main></dic>
 <script>
-   const node = document.querySelector('div.main')
-   const app = Elm.Kerbors.embed(node)
+  const node = document.querySelector('div.main')
+  const app = Elm.Kerbors.embed(node)
 </script> 
 ```
 Puis créer un document Kerbors.elm
@@ -215,10 +215,10 @@ import Html exposing (text, h1)
 main: Htlm.Html msg
 
 main=
-   h1 [] ["Hello, World"]
+  h1 [] ["Hello, World"]
 ```
 
-Pour un environemment live dans le terminal
+Pour un environnement live dans le terminal
 
 ```
 $ cd elm-kerbors
