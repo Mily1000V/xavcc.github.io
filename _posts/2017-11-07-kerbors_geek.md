@@ -7,7 +7,7 @@ categories: ["science"]
 
 ###### Tags: `IndieCamp` `Kerbors` `atelier geek` `Elm` `JavaScript`
 
-* [Atelier #0](https://hackmd.io/s/rJw31KgDb), sur les commandes d'un terminal pour un ordianteur sous Linux
+* [Atelier #0](https://hackmd.io/s/rJw31KgDb), sur les commandes d'un terminal pour un ordinateur sous Linux
 * [Atelier #1](https://hackmd.io/s/rJDXkRHDW), sur le langage markdown utile àla documentation de projet
 * [Atelier #2](https://hackmd.io/s/SyHcRZPPb), sur les langage de programmation JavaScript et Elm
 * [Atelier #3](https://hackmd.io/s/BkvQpmmY-#) apprendre JavaScript en MobProgramming
