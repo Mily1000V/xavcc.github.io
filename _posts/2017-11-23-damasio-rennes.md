@@ -44,9 +44,9 @@ Forger des armes pour rentrer dans le combat politique car il y a une guerre des
 
 ## 3. Petite fiction anthropotechnique
 
-> on ne pas penser l'homme en dehors de la technique, on est devenu humain lorsque l'on commence à utiliser des outils.
+> On ne eput pas penser l'homme en dehors de la technique, on est devenu humain lorsque l'on commence à utiliser des outils. **Damasio**
 
-> L'histoire de l'Homme commence quelque part dans la courbe de la première pierre jetée pour chasser la première proie
+> L'histoire de l'Homme commence quelque part dans la courbe de la première pierre jetée pour chasser la première proie. **Damasio** en paraphrase de  Sloterdjik
 
 Les 4 mécanismes d'homminisation (cf Peter [Sloterdjik](https://fr.wikipedia.org/wiki/Peter_Sloterdijk))
 
