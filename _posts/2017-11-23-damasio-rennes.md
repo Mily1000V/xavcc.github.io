@@ -24,7 +24,7 @@ _[Lien](https://soundcloud.com/leschampslibres/etre-ou-ne-pas-etre-artificiel-re
 `Conf'errance` est le mot choisi par Alain Damasio. 
 > C'est un peu centré mais cela part en vrille. **Alain Damasio** 
 
-La façon dont l'homme réinvente par la technologie:
+La façon dont l'Homme se réinvente par la technologie:
 + Au monde (rapport à la réalité, rapport existentiel)
 + à l'autre (rapport à l'autre et politique)
 + à lui-meme (construction de soi, psychologie)
