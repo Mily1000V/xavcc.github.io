@@ -1,19 +1,21 @@
-# Damasio Rennes 
+---
+layout: post
+title: Être ou ne pas être... Artificiel à Rennes avec Alain Damasio
+date: 2017-11-23
+categories: ["hsociety"]
+---
 
-18/10/17 conférence d'1h30 faite aux Champs Libres à Rennes. Voici mes notes prises en direct in situ ainsi que les leins vers le podcast et la vidéo intégrale en fin d'article.
+18/10/17 conférence d'1h30 faite aux Champs Libres à Rennes. Voici mes notes prises en direct in situ ainsi que les liens vers le podcast et la vidéo intégrale en fin d'article.
 
 ![](https://i.imgur.com/aQtBeO1.png)
 
 
-
 ## Etre ou ne pas Etre... Artificiel 
-
-{%youtube XzJ0RHjmaYU%}
-
-_Vidéo d'intro tirée de l'expo Court Métrange_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XzJ0RHjmaYU" frameborder="0" allowfullscreen></iframe>
+_Vidéo d'intro tirée de l'expo [Court Métrange](http://www.courtmetrange.eu/), Fesctival qui invitait Alain Damasio_
 
 
-### 1. Qu'est ce que c'est être ou ne pas être artificiel ?
+## 1. Qu'est ce que c'est être ou ne pas être artificiel ?
 
 _[Lien](https://soundcloud.com/leschampslibres/etre-ou-ne-pas-etre-artificiel-rencontre-avec-alain-damasio) vers le podcast d'1h30 de la séance_
 
@@ -29,7 +31,7 @@ La façon dont l'homme réinvente par la technologie:
 
 Ceci est la clé de la SF. Comment on vit dans un monde où l'artifice est partout ? Quelles sont les minutes ou les secondes où je suis éloigné de la technonologie ?
 
-## Homo sapiens technologicus artificiel 
+## 2. Homo sapiens technologicus artificiel 
 
 La SF est devenue un art de ce qui se passe.
 
@@ -40,7 +42,7 @@ Dans son identité la plus forte, la SF doit proposer :
 
 Forger des armes pour rentrer dans le combat politique car il y a une guerre des imaginaires aujourd'hui qui s'intensifie, pour les GAFA préformater nos imaginaires fait partie de leur stratégie pour vendre plus. 
 
-## Petite fiction anthropotechnique
+## 3. Petite fiction anthropotechnique
 
 > on ne pas penser l'homme en dehors de la technique, on est devenu humain lorsque l'on commence à utiliser des outils.
 
@@ -55,7 +57,7 @@ Les 4 mécanismes d'homminisation (cf Peter [Sloterdjik](https://fr.wikipedia.or
 
 voir aussi la [clairière selon Heidegger](https://fr.wikipedia.org/wiki/Lexique_Heidegger)
 
-"Umwelt" (de Sloterdjik) -> technosphère = notre biotope
+"Umwelt" (de [Sloterdjik](https://fr.wikipedia.org/wiki/Peter_Sloterdijk)) -> technosphère = notre biotope
 
 L'enjeu avec l'artificiel devient un enjeu nodal et une responsabilité cruciale pour les nouvelles formes d'homminisation dans lesquelles nous sommes.
 
@@ -68,7 +70,7 @@ Notre insulation est devenue une hyperinsulation, le monde s'est rapproché, ses
 
 > éprouvette = tour panoptique
 
-## Nouvelle écho-logie ?
+## 4. Nouvelle écho-logie ?
 
 Le système d'écho cybernétique avec des feedbacks permanents, on intéragit avec des interfaces qui sont des mécanismes précurseurs d'angoisse. 
 
@@ -93,7 +95,7 @@ la techno nous aide à dépasser notre finitude
 + nos limites cognitives
 + La condition vivante
 
-## Technophobie, guerre de l'imaginaire comment on combat cela ?
+## 5. Technophobie, guerre de l'imaginaire comment on combat cela ?
 
 "la technique littéraire (collectif Zanzibar) pour désincarcer le futur / cet imaginaire en utilisant les oeuvres de l'imaginaire (séries TV, story telling, les récits...). Les mêmes imaginaires que les GAFAM préemptent avec les mêmes mécanismes mais à dessein d'asservir et non pas de libérer"
 
@@ -107,16 +109,16 @@ En littérature :
 + Thèmes, fond, valeur, modèle moral
 + Ton, le ton choisi par l'auteur
 
-## La vidéo intégrale 1h30
+## 6. La vidéo intégrale 1h30
 
-{%youtube HNri0r3WO84%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HNri0r3WO84" frameborder="0" allowfullscreen></iframe>
 
 
-## Remerciements
+## 7. Remerciements
 
 + Émilie Picton pour l'aide à la correction des notes en markdown
-+ Alain Damasio pour nous avoir gentiment écouté post conférence sur les Tiers-leiux et une société open source avec mon ami [Arthur Masson](http://arthurmasson.xyz/)
-
++ Alain Damasio pour nous avoir gentiment écouté post conférence sur les Tiers-leiux et une société open source avec mon ami [Arthur Masson](http://arthurmasson.xyz/), voir la correspondance [épistolaire numérique](http://arthurmasson.xyz/societe-ouverte-lettre-a-xavier/)
++ Aux personnes qui soutiennent mes travaux libres et open source sur liberapay (voir icone ci-dessous)
 
 
 
