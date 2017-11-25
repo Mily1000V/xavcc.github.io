@@ -70,11 +70,32 @@ _attentions suprise vous alez avoir_
 
 Bref, vous l'avez compris, la liste est immense. C'est de cette diversité dont il faut avoir conscience pour permmetre les condition d'innovations (sociales, éco, tech, édu, bio...) en bibliothèque. 
 
-+ 
-
 ## Où ?
 
+Beaucoup de temps furent passés aux libres à Rennes (Voir la [carte Rennes](http://www.devfriendlyplaces.net/#rennes)) et même des [ateliers sur l'économie](https://xavcc.github.io/hsociety/2016/01/16/nex-eco.html) lors d'un biennale)
+
+Il a également eut des Opération #FreeParty pour les graines de fruits et légumes #Rennes ![](https://pbs.twimg.com/media/DA1wRB_WsAM3Cfa.jpg)
+
+Aussi conférences à Quiberon pour la [quinziane du numérique](http://www.ville-quiberon.fr/actualites/culture/la-quinzaine-numerique-a-la-mediatheque-2017) en 2017 et 
+
 ## Quoi ?
+
+De la question des lbertés informatiques...
+
+du robot sous-marin en rivière...
+
+Du latex à base de pissenlit...
+
+Du clonage de mycélium...
+![](https://pbs.twimg.com/media/DAYbBAnXsAQODIT.jpg)
+
+Des lectures...
+
+Des algorithmes...
+
+De l'ADN...
+
+Des catograhphies...
 
 ## Comment faire ?
 
