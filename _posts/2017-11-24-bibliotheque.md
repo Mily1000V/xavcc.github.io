@@ -78,6 +78,8 @@ Il a également eut des Opération #FreeParty pour les graines de fruits et lég
 
 Aussi conférences à Quiberon pour la [quinziane du numérique](http://www.ville-quiberon.fr/actualites/culture/la-quinzaine-numerique-a-la-mediatheque-2017) en 2017 et 
 
+Réseau des bibliothèques du Morbihan pour une conférence, médiathèque de Rostrenen dans laquelle j'ai modifié de la sève de pissenlit avec du souffre, bibliothèque de Châteaubourg dans laquelle j'ai testé des prélevements de rivière venus de la Vilaine, Bibliothèque de L'INSA Rennes pour faire du `PenTest`, Pontivy pour un OpenROV, Lyon pour co-design de blockchain, Espace 4C à Rennes pour exploiter des données dela NASA, [médiathèque d'Auray](http://mediatheque.auray.fr/search.php?action=Accueil) pour prélever mon sang. pour en extraire des enzymes..  
+
 ## Quoi ?
 
 De la question des lbertés informatiques...
