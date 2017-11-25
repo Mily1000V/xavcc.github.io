@@ -5,8 +5,12 @@ description: Rennes, Paris, Lyon, kreiz Breizh & Rostrenen, Châteaubourg,
 date: 2017-11-23
 categories: ["hsociety"]
 ---
-Après plusieurs années à faire des petits bouts de truc dans les bilbiothèques et médiathèque en  France métropolitaine voici quelques retours d'expériences.
-![](https://farm4.staticflickr.com/3347/3318289854_a80e2ea6e4_b.jpg "Photo by ladyada")
+Après plusieurs années à faire des petits bouts de truc dans les bilbiothèques et médiathèques en France métropolitaine.
+
+Voici quelques retours d'expériences.
+
+![](https://farm8.staticflickr.com/7750/27098815643_cb2e2b3614_c.jpg "by olabimakerspace licence CC BY-SA")
+
 ## De quoi on parle ?
 
 Je vous assure que tout ce qui suit fut testé et fait en `Bib'`, et je vous donnerais des preuves. 
@@ -18,8 +22,10 @@ Je vous assure que tout ce qui suit fut testé et fait en `Bib'`, et je vous don
   + Les hackers devraient être jugés selon leurs œuvres, et non selon des critères qu'ils jugent factices comme la position, l’âge, la nationalité ou les diplômes.
   + On peut créer l'art et la beauté sur un ordinateur.
   + Les ordinateurs sont faits pour changer la vie
+ 
+ ![](https://farm4.staticflickr.com/3347/3318289854_a80e2ea6e4_b.jpg "Photo by ladyada")
   
-Avec le Biome HackLab, nous avons entrepis une [bibliothèque numérique](https://lebiome.github.io/#LeBiome/library) libre et open source qui peut aider à se documenter
+Avec le Biome HackLab, nous avons entrepis une [bibliothèque numérique](https://lebiome.github.io/#LeBiome/library) libre et open source qui peut aider à se documenter.
   
 + Biodesign : vise à s'inspirer des solutions techniques qu'offre la nature pour répondre à des problèmes de conception d'objets industriels.
 
@@ -27,7 +33,9 @@ Avec le Biome HackLab, nous avons entrepis une [bibliothèque numérique](https:
 
 ![](https://framapic.org/JlHFepx7Dyqi/swAipxryxWXV)
 
-Oui, cela veu t dire que nous avons fait de la biologie, de l'informatique qui pique, de la chimie, du piratge en bibliothèque.
+Oui, cela veut dire que nous avons fait de la biologie, de l'informatique qui pique, de la chimie, du piratage en bibliothèque, que nus en avons la liberté, le droit et le devoir de le faire. 
+
+> Vous avez déjà vu un panneau "Interdit au pissenlit" à l'entrée d'un bibliothèque ? Pourttant souavent ils poussent juste devant.
 
 ## Contexte
 
