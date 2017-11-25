@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hacking, biodesign, biomimétisme en bibliothèque et médiathèque
-description: Rennes, Paris, Lyon, kreiz Breizh & Rostrenen, Châteaubourg,
+description: Rennes, Paris, Lyon, kreiz Breizh & Rostrenen, Châteaubourg et plus loin.. 
 date: 2017-11-23
 categories: ["hsociety"]
 ---
