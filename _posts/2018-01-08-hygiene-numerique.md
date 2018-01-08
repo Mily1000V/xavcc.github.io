@@ -35,7 +35,7 @@ Je vous conseille [Qwant](https://www.qwant.com), c'est made in France et c'est 
 ### Petits plus pour personne vraimment curieuse
 
 + Mozilla a silencieusement déployé la fonctionnalité [First Party Isolation](https://www.developpez.com/actu/174643/Mozilla-a-silencieusement-deploye-la-fonctionnalite-First-Party-Isolation-empruntee-a-Tor-pour-endiguer-le-profilage-des-regies-publicitaires/) empruntée à Tor. Pour endiguer le profilage des régies publicitaires, l'add-on est : [First Party Isolation by freddyb](https://addons.mozilla.org/en-US/firefox/addon/first-party-isolation/)
-+ [How to eradicate Google from Firefox](https://www.leavegooglebehind.com/how-tos/how-to-eradicate-google-from-firefox/), tuto en anglais pour vraimment faire la chasse aux chasseur G00gle.
++ [How to eradicate Google from Firefox](https://www.leavegooglebehind.com/how-tos/how-to-eradicate-google-from-firefox/), tuto en anglais pour vraimment faire la chasse au chasseur G00gle.
 + À lire et à faire tourner, l'initiative contre l'implantation de G00gle dans le quartier Kreuzberg de Berlin : [Fuck Off Google](https://fuckoffgoogle.de). Par la même occasion, se renseigner sur les problèmes de gentrification...
 
 
