@@ -36,7 +36,7 @@ Je vous conseille [Qwant](https://www.qwant.com), c'est made in France et c'est 
 
 + Mozilla a silencieusement déployé la fonctionnalité [First Party Isolation](https://www.developpez.com/actu/174643/Mozilla-a-silencieusement-deploye-la-fonctionnalite-First-Party-Isolation-empruntee-a-Tor-pour-endiguer-le-profilage-des-regies-publicitaires/) empruntée à Tor. Pour endiguer le profilage des régies publicitaires, l'add-on est : [First Party Isolation by freddyb](https://addons.mozilla.org/en-US/firefox/addon/first-party-isolation/)
 + [How to eradicate Google from Firefox](https://www.leavegooglebehind.com/how-tos/how-to-eradicate-google-from-firefox/), tuto en anglais pour vraimment faire la chasse aux chasseur G00gle.
-+ À lire et à faire tourner, l'initiative contre l'implantation de G00gle dans le quartier Kreuzberg de Berlin : https://fuckoffgoogle.de/. Par la même occasion, se renseigner sur les problèmes de gentrification...
++ À lire et à faire tourner, l'initiative contre l'implantation de G00gle dans le quartier Kreuzberg de Berlin : [Fuck Off Google](https://fuckoffgoogle.de). Par la même occasion, se renseigner sur les problèmes de gentrification...
 
 
 ## En plus de la base navigateur / moteur de recherche
@@ -45,17 +45,17 @@ Les 3 extensions qui me semblent indispensables:
 
 (En utilisant Firefox comme navigateur et Qwant comme moteur de recherche)
 
-1️⃣ µBlock-origin:
+1. [µBlock-origin](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/):
 Blocage publicités et traqueurs.
-https://addons.mozilla.org/fr/firefox/addon/ublock-origin/
 
-2️⃣ Privacy Badger:
+
+2. [Privacy Badger](https://addons.mozilla.org/…/firefox/addon/privacy-badger17/):
 Filtrage des cookies d'identification pour ce qui reste (CDN, javascript, polices...)
-https://addons.mozilla.org/…/firefox/addon/privacy-badger17/
 
-3️⃣ Decentraleyes:
+
+3. [Decentraleyes](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/):
 Pour éviter des requêtes vers les CDN de G00gle et autre en gardant en cache les ressources courantes (lib javascript, etc.)
-https://addons.mozilla.org/fr/firefox/addon/decentraleyes/
+
 
 Maintenant vous allez commencer à surfer en traqnuilité. Mais ce n'est qu'un début que d'installer quelques extensions, il faudra petit à petit vous familiariser avec celles-ci, certainement ajouter d'autres (mais pas trop, Less Is More), et surtout vous rappeler que c'est vous la première barrière à l'agression de votre intégrité et votre vie privée. 
 
@@ -64,11 +64,11 @@ Maintenant vous allez commencer à surfer en traqnuilité. Mais ce n'est qu'un d
 + [Time Capsule](https://addons.mozilla.org/en-US/firefox/addon/time-capsule/), parce que vous dévorez des articles et page web et que vous les perdez dans vos favoris, "La personne la plus à même de vous envoyer des liens correspondants à vos intérets est une autre version de vous même voyageant dans le temps"
 + [Exodus](https://exodus-privacy.eu.org/), pour tester la présence de trackers dans les applis mobiles. 
 + [Matrix](https://matrix.org) An open network for secure, decentralized communication.
-+ [À tester] OONI, Open Observatory of Network Interference. A free software, global observation network for detecting censorship, surveillance and traffic manipulation on the internet https://ooni.torproject.org/
++ [À tester] [OONI](https://ooni.torproject.org/), Open Observatory of Network Interference. A free software, global observation network for detecting censorship, surveillance and traffic manipulation on the internet
 
 ## Rien à cacher ? Vraimment
 
-Je vous conseille ce film accesible gratuitement dans son intégralité
+Je vous conseille ce film accessible gratuitement dans son intégralité
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/djbwzEIv7gE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
