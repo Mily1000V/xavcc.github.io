@@ -56,6 +56,8 @@ Filtrage des cookies d'identification pour ce qui reste (CDN, javascript, police
 3. [Decentraleyes](https://addons.mozilla.org/fr/firefox/addon/decentraleyes/):
 Pour éviter des requêtes vers les CDN de G00gle et autre en gardant en cache les ressources courantes (lib javascript, etc.)
 
+Pour bonus, vous pouvez aussi ajouter [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere/) qui force le https pour une encryption sur tous les sites?
+
 
 Maintenant vous allez commencer à surfer en traqnuilité. Mais ce n'est qu'un début que d'installer quelques extensions, il faudra petit à petit vous familiariser avec celles-ci, certainement ajouter d'autres (mais pas trop, Less Is More), et surtout vous rappeler que c'est vous la première barrière à l'agression de votre intégrité et votre vie privée. 
 
