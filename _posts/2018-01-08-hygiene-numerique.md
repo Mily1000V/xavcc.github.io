@@ -29,13 +29,14 @@ Google, Bing et Yahoo, bon bah ceux-ci je vous cosneille d'oublier et de désins
 
 Dans mes ami.e.s, certaines et certains utilise Ecosia comme moteur de recherche qui promet de planter des arbres. Ecosia existe en revendiquant le titre de moteur de recherche écologique. Le principe est simple : dans toute recherche, il y a des « clics commerciaux ». Chaque fois qu’un utilisateur clique sur un de ces liens, cela rapporte de l’argent au moteur de recherche. Google a fait sa fortune sur ce principe. Ecosia récolte aussi cet argent des liens commerciaux, mais en redistribue 80% au WWF chargé de les utiliser pour protéger la forêt tropicale. **Ce qui n'est pas planter des arbres par le fait d'Ecosia**, quand au respect de votre vie privée, c'est pas vraimment dans le modèle des "_liens commerciaux_".
 
-Je vous conseille [Qwant](https://www.qwant.com), c'est made in France et c'est vraimmetn pas mal du tout car en plus de la vie privée cela respecte également votre intégrité intellectuel en affichant des résultats de recherche les plus "neutres" possibles. Vous pouvez lire "[Censure et chaussettes roses](https://www.monde-diplomatique.fr/2018/01/RIMBERT/58251)", dans Le Monde diplomatique à ce sujet.
+Je vous conseille [Qwant](https://www.qwant.com), c'est made in France et c'est vraimment pas mal du tout car en plus de la vie privée cela respecte également votre intégrité intellectuelle en affichant des résultats de recherche les plus "neutres" possibles. Vous pouvez lire "[Censure et chaussettes roses](https://www.monde-diplomatique.fr/2018/01/RIMBERT/58251)", dans Le Monde diplomatique à ce sujet.
 
 
 ### Petits plus pour personne vraimment curieuse
 
 + Mozilla a silencieusement déployé la fonctionnalité [First Party Isolation](https://www.developpez.com/actu/174643/Mozilla-a-silencieusement-deploye-la-fonctionnalite-First-Party-Isolation-empruntee-a-Tor-pour-endiguer-le-profilage-des-regies-publicitaires/) empruntée à Tor. Pour endiguer le profilage des régies publicitaires, l'add-on est : [First Party Isolation by freddyb](https://addons.mozilla.org/en-US/firefox/addon/first-party-isolation/)
 + [How to eradicate Google from Firefox](https://www.leavegooglebehind.com/how-tos/how-to-eradicate-google-from-firefox/), tuto en anglais pour vraimment faire la chasse aux chasseur G00gle.
++ À lire et à faire tourner, l'initiative contre l'implantation de G00gle dans le quartier Kreuzberg de Berlin : https://fuckoffgoogle.de/. Par la même occasion, se renseigner sur les problèmes de gentrification...
 
 
 ## En plus de la base navigateur / moteur de recherche
@@ -53,8 +54,10 @@ Filtrage des cookies d'identification pour ce qui reste (CDN, javascript, police
 https://addons.mozilla.org/…/firefox/addon/privacy-badger17/
 
 3️⃣ Decentraleyes:
-Pour éviter des requêtes vers les CDN de Google et autre en gardant en cache les ressources courantes (lib javascript, etc.)
+Pour éviter des requêtes vers les CDN de G00gle et autre en gardant en cache les ressources courantes (lib javascript, etc.)
 https://addons.mozilla.org/fr/firefox/addon/decentraleyes/
+
+Maintenant vous allez commencer à surfer en traqnuilité. Mais ce n'est qu'un début que d'installer quelques extensions, il faudra petit à petit vous familiariser avec celles-ci, certainement ajouter d'autres (mais pas trop, Less Is More), et surtout vous rappeler que c'est vous la première barrière à l'agression de votre intégrité et votre vie privée. 
 
 ### Petits plus pour personne curieuse
 
