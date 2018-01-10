@@ -31,6 +31,7 @@ Dans mes ami.e.s, certain.e.s utilisent Ecosia comme moteur de recherche qui pro
 
 Je vous conseille [Qwant](https://www.qwant.com), c'est Made in France et c'est vraimment pas mal du tout car en plus de la vie privée cela respecte également votre intégrité intellectuelle en affichant des résultats de recherche les plus "neutres" possibles. Vous pouvez lire "[Censure et chaussettes roses](https://www.monde-diplomatique.fr/2018/01/RIMBERT/58251)", dans Le Monde diplomatique à ce sujet.
 
+Vous pouvez également jeter un oeil sur [DuckDuckGo](https://duckduckgo.com/). La philosophie de ce moteur de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateur.
 
 ### Petits plus pour personne vraimment curieuse
 
@@ -58,19 +59,25 @@ Pour éviter des requêtes vers les CDN de G00gle et autres en gardant en cache 
 
 En bonus, vous pouvez aussi ajouter [HTTPS Everywhere](https://addons.mozilla.org/fr/firefox/addon/https-everywhere/) qui force le https pour un chiffrement sur tous les sites.
 
+
 Maintenant, vous allez commencer à surfer en tranquilité. Mais ce n'est qu'un début que d'installer quelques extensions, il faudra petit à petit vous familiariser avec celles-ci, certainement en ajouter d'autres (mais pas trop, Less Is More), et surtout vous rappeler que c'est vous la première barrière à l'agression de votre intégrité et votre vie privée. 
 
 ### Petits plus pour personne curieuse
 
 + [Time Capsule](https://addons.mozilla.org/en-US/firefox/addon/time-capsule/), parce que vous dévorez des articles et pages web et que vous les perdez dans vos favoris, "La personne la plus à même de vous envoyer des liens correspondants à vos intérets est une autre version de vous même voyageant dans le temps"
++ Je déconseille d'utiliser [Pocket](https://fr.wikipedia.org/wiki/Pocket_%28application%29). C'est un service commercial de tiers. En fait, il a fait un énorme vacarme quand il a été ajouté à Firefox. Choississez plutôt [wallabag](https://fr.wikipedia.org/wiki/Wallabag), un service open-source français.
 + [Exodus](https://exodus-privacy.eu.org/), pour tester la présence de trackers dans les applis mobiles. 
 + [Matrix](https://matrix.org) An open network for secure, decentralized communication.
 + [À tester] [OONI](https://ooni.torproject.org/), Open Observatory of Network Interference. A free software, global observation network for detecting censorship, surveillance and traffic manipulation on the internet
 
 ## Rien à cacher ? Vraimment
 
-Je vous conseille ce film accessible gratuitement dans son intégralité :
+Je vous conseille vivement de lire de-google-ifier internet, par Framsoft, [degooglisons internet ](https://degooglisons-internet.org) puis ce film accessible gratuitement dans son intégralité :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/djbwzEIv7gE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 > Cet article vous a été utile ? Vous voudriez que les publications libres et open source continuent ici ? Pensez à la petite icone jaune "Liberapay" en bas de cette page, juste à coté de la licence libre de cette publication ( ͡° ͜ʖ ͡°)
+
+### Remerciements 
+
+À [François Dupayrat](https://github.com/FrancoisDupayrat) pour ces corrections et contributions sur cet article
