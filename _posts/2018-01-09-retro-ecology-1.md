@@ -13,13 +13,12 @@ Feuilletant un manuel de biologie de 1981 et tomber sur "Comment l'île d'[Houat
 
 Et Houat c'est dans ma si chère Bretagne.
 
-Le texte du livre scoalire :
+Le texte du livre scolaire :
 
-" avec ses 291 hectares, l'île d'Houat, au large de Quiberon, ne possède qu'une source minuscule. Comment alimenter en eua ses 457 habitants et les 1500 estivants qui viennent à la belle saison? Le curé? - qui, participe à l'administration avec le maire par usage particulier - est chargé de la répartition de l'eau à l'unique pompe du bourg. A cette époque, on peut voir un écriteau rouge: "A Houat, l'eau potable vaut de l'or; économisez la" Aussi, en 1966 le ministère de l’agriculture a-t-il décidé de recouvrir au dessalement.
+" avec ses 291 hectares, l'île d'Houat, au large de Quiberon, ne possède qu'une source minuscule. Comment alimenter en eau ses 457 habitants et les 1500 estivants qui viennent à la belle saison ? Le curé - qui, participe à l'administration avec le maire par usage particulier - est chargé de la répartition de l'eau à l'unique pompe du bourg. A cette époque, on peut voir un écriteau rouge: "A Houat, l'eau potable vaut de l'or ; économisez la" Aussi, en 1966 le ministère de l’agriculture a-t-il décidé de recourrir au dessalement.
 
 C'est le procédé d'osmose inverse qui a été choisi pour produire 50m3 par jour d'eau à très faible salinité. L'eau de mer, chlorée dès son pompage, est d'abord stockée dans un réservoir de 100m3 qui alimente par gravité les appareils de traitement.
-Le dessalement s'effectue en deux étapes. trois pompes électriques du type "à vis" travaillant en parallèle, débitent 4m3/h dans deux lignes de 16 modules d'osmose disposées en série: chaque module comporte une surface active de 2,8m2; les cinq premiers de chaque ligne sont équipés de membranes très sélectives qui produisent une eau dont la salinité en ion chlorure est d'environ 600 mg/l; cette eau va directement dans le stockage d'eau épurée. les modules suivants produisent une eau de second étage de dessalement (1 5000mg/l)
-
+Le dessalement s'effectue en deux étapes. Trois pompes électriques, du type "à vis" travaillant en parallèle, débitent 4m3/h dans deux lignes de 16 modules d'osmose disposées en série : chaque module comporte une surface active de 2,8m2 ; les cinq premiers de chaque ligne sont équipés de membranes très sélectives qui produisent une eau dont la salinité en ion chlorure est d'environ 600 mg/l ; cette eau va directement dans le stockage d'eau épurée. les modules suivants produisent une eau de second étage de dessalement (1 5000mg/l).
 Ce second étage est constitué d'une pompe débitant 1 600 l/h et de 24 modules alimentés en série. Il produit une eau très pure contenant nettement moins que 100mg/l . L'eau rejetée par cet étage est, avec 10g/l, nettement moins salée que l'eau de mer; aussi est-elle renvoyée au premier étage.
 
 Depuis octobre 1971, cette installation fonctionna parfaitement."
@@ -36,9 +35,9 @@ Un projet de transition énergétique citoyenne visant à alimenter l'île exclu
 
 ## Ressources
 
-+ [Possibilites d’utilisation des proc ́ed ́es `a membranes pour la valorisation des produits de la mer et dans l’aquaculture P. Belleville, F. Quemeneu](https://hal.archives-ouvertes.fr/file/index/docid/929010/filename/hal-00929010.pdf), HAL archives 
++ [Possibilités d’utilisation des procedes à membranes pour la valorisation des produits de la mer et dans l’aquaculture P. Belleville, F. Quemeneu](https://hal.archives-ouvertes.fr/file/index/docid/929010/filename/hal-00929010.pdf), HAL archives 
 ouvertes.
 
 ## Contribuer ?
 
-Vous avez des informations documentées, des images, des vidéos, des textes sur ces sujets ? Ouvrez une [ISSUE](https://github.com/XavCC/xavcc.github.io/issues), nommée là `Rétro Paléo Écologie #1` (#Chiffre adéquat) et décrivez avec précision et ressources ajoutées votre envie de contribution ou un erreur repérée dans cette page. 
+Vous avez des informations documentées, des images, des vidéos, des textes sur ces sujets ? Ouvrez une [ISSUE](https://github.com/XavCC/xavcc.github.io/issues), nommez là `Rétro Paléo Écologie #1` (#Chiffre adéquat) et décrivez avec précision et ressources ajoutées votre envie de contribution ou un erreur repérée dans cette page. 
